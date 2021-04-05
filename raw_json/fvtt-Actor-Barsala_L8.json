@@ -347,7 +347,7 @@
       "pro": {
         "ability": "int",
         "min": 0,
-        "ranks": 0,
+        "ranks": 8,
         "value": 3,
         "misc": 0,
         "mod": 0,
@@ -359,7 +359,7 @@
       "sen": {
         "ability": "wis",
         "min": 0,
-        "ranks": 0,
+        "ranks": 8,
         "value": 0,
         "misc": 0,
         "mod": 0,

@@ -66,7 +66,7 @@
       "hp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 40,
         "temp": null,
         "tempmax": null,
         "tooltip": []
@@ -143,7 +143,7 @@
       "biography": {
         "value": "<h2>SPECIAL ABILITIES</h2>\n<p><strong>Mobility&nbsp;</strong>Scout gains a +4 bonus to its AC against attacks of opportunity it provokes by leaving a threatened square.</p>\n<h2>DRONE MODS</h2>\n<p><strong>Camera&nbsp;</strong>As long as Scout is within range of Quig&rsquo;s custom rig (2,500 feet), Quig can see through Scout&rsquo;s senses (seeing whatever a typical human could see).&nbsp;</p>\n<hr />\n<p><strong>Enhanced Senses</strong>&nbsp;Scout gains low-light vision and darkvision, which also function through its camera.</p>\n<hr />\n<p><strong>Flight System&nbsp;</strong>Scout has a flight system included in its chassis. This grants it the flight listed with its speed.</p>\n<hr />\n<p><strong>Weapon Mount&nbsp;</strong>Scout has a tactical semi-auto pistol, which can be fired nine times before Quig must reload it with small arm rounds</p>",
         "public": "",
-        "fullBodyImage": "systems/sfrpg/images/mystery-body.png",
+        "fullBodyImage": "modules/fvtt-sf-iconics/images/webp/Scout-portrait.webp",
         "dateOfBirth": "",
         "age": 0,
         "height": "",
@@ -530,16 +530,18 @@
       "systemVersion": "0.9.0.0"
     }
   },
-  "img": "worlds/sf-iconics/tokens/Scout.png",
+  "img": "modules/fvtt-sf-iconics/images/webp/Scout-portrait.webp",
   "token": {
     "flags": {},
-    "name": "Scout L1",
-    "displayName": 0,
-    "img": "worlds/sf-iconics/tokens/Scout.png",
-    "tint": null,
+    "name": "Scout",
+    "displayName": 40,
+    "img": "modules/fvtt-sf-iconics/images/webp/Scout-token.webp",
+    "tint": "",
     "width": 1,
     "height": 1,
     "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
     "lockRotation": false,
     "rotation": 0,
     "vision": false,
@@ -549,17 +551,23 @@
     "brightLight": 0,
     "sightAngle": 360,
     "lightAngle": 360,
+    "lightColor": "",
     "lightAlpha": 1,
     "lightAnimation": {
+      "type": "",
       "speed": 5,
       "intensity": 5
     },
     "actorId": "C4BhllNP0PPFdfv2",
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 1,
     "displayBars": 0,
-    "bar1": {},
-    "bar2": {},
+    "bar1": {
+      "attribute": ""
+    },
+    "bar2": {
+      "attribute": ""
+    },
     "randomImg": false
   },
   "items": [

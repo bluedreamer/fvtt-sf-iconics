@@ -84,7 +84,7 @@
       "hp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 10,
         "temp": null,
         "tempmax": null,
         "tooltip": []
@@ -92,13 +92,13 @@
       "sp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 6,
         "tooltip": []
       },
       "rp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 3,
         "tooltip": []
       },
       "init": {
@@ -148,7 +148,7 @@
       "biography": {
         "value": "<p>Born into a wealthy family on Absalom Station, the envoy who calls herself Navasi spent much of her childhood avoiding her parents in their sprawling, six-story home in the Nyori Palisades. Navasi quickly grew dissatisfied with high-society life, and began to dream of stealing the affluent&rsquo;s unearned wealth and giving it to those in need. She eventually snuck away to join up with the piratical Free Captains of the Diaspora. Once there, however, poverty gave her little choice in the jobs she took, with her guild masters forcing her to steal from the fortunate and unfortunate alike. A few years in the streets showed her how much of her former life she&rsquo;d taken for granted, and it taught her that if she wanted to take care of others, she first needed to take care of herself. She quickly gained a reputation in the gang as the best fast-talker and face around, spinning bold plans and quick wits into fat paydays.</p>\n<p>&nbsp;</p>\n<p>That all changed when she met another rebellious young woman and fell in love. Together, they sought to pull a fast one on Navasi&rsquo;s bosses, sabotaging an attempt to knock over a medship full of supplies bound for Absalom Station. In the ensuing ambush, Navasi&rsquo;s companion sacrificed herself to save Navasi&rsquo;s life, giving the young envoy a chance to flee the Diaspora. As she made her way back to Absalom Station with the medship, knowing that neither the pirates nor her spurned family would ever stop looking for her, she forsook both of her former lives and took the name of her fallen love&mdash;Navasi&mdash; swearing that henceforth she&rsquo;d carry on the fight they&rsquo;d started together, stealing only from those who deserved it and putting her finger in the eye of all who thrive on exploitation.</p>\n<p>&nbsp;</p>\n<h2>SPECIAL ABILITIES</h2>\n<p><strong>Expertise (Ex)</strong>&nbsp;If Navasi has at least 1 Resolve Point remaining when she attempts a Bluff or Sense Motive check, she can roll 1d6 and add it to the result as an insight bonus.</p>\n<hr />\n<p><strong>Get &rsquo;Em (Ex)</strong>&nbsp;As a move action, Navasi selects one foe within 60 feet that she can see or hear, and that can see or hear her. Navasi and her allies gain a +1 morale bonus to attack rolls against that foe until the end of her next turn.</p>\n<hr />\n<p><strong>Improved Feint</strong>&nbsp;As a move action, Navasi can attempt a Bluff check against a single opponent (DC = either 10 + her opponent&rsquo;s total Sense Motive skill bonus or 15 + 1-1/2 &times; the opponent&rsquo;s CR, whichever is greater) to cause that opponent to be flat-footed for the next attack she makes against it before the end of her next turn.</p>\n<h2>GEAR DESCRIPTIONS</h2>\n<p><strong>Azimuth Laser Pistol</strong>&nbsp;This weapon can be fired 20 times before its battery needs to be recharged or replaced.</p>\n<hr />\n<p><strong>Flashlight</strong>&nbsp;Navasi&rsquo;s flashlight increases the light level by one step in a 20-foot cone and can be used for 10 hours.</p>\n<hr />\n<p><strong>Mk I Serum of Healing</strong>&nbsp;Drinking a vial of this serum restores 1d8 Hit Points.</p>\n<hr />\n<p><strong>Medpatch&nbsp;</strong>Navasi can use this to attempt an untrained Medicine check with a +10 bonus to perform the first aid, long-term stability, treat disease, or treat poison task.</p>\n<hr />\n<p><strong>Second Skin</strong>&nbsp;While wearing this armor, Navasi can close its environmental seals and survive in a vacuum (or other harsh environment) for up to 24 hours.</p>\n<hr />\n<p><strong>Smoke Grenade</strong>&nbsp;This creates smoke in a 20-foot radius that lasts 1 minute.</p>",
         "public": "",
-        "fullBodyImage": "worlds/sf-iconics/tokens/Navasi_Portrait.png",
+        "fullBodyImage": "modules/fvtt-sf-iconics/images/webp/Navasi-portrait.webp",
         "dateOfBirth": "",
         "age": 0,
         "height": "",
@@ -549,16 +549,18 @@
       "systemVersion": "0.9.0.0"
     }
   },
-  "img": "worlds/sf-iconics/tokens/Navasi.png",
+  "img": "modules/fvtt-sf-iconics/images/webp/Navasi-portrait.webp",
   "token": {
     "flags": {},
-    "name": "Navasi L1",
-    "displayName": 0,
-    "img": "worlds/sf-iconics/tokens/Navasi.png",
-    "tint": null,
+    "name": "Navasi",
+    "displayName": 50,
+    "img": "modules/fvtt-sf-iconics/images/webp/Navasi-token.webp",
+    "tint": "",
     "width": 1,
     "height": 1,
     "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
     "lockRotation": false,
     "rotation": 0,
     "vision": false,
@@ -568,17 +570,23 @@
     "brightLight": 0,
     "sightAngle": 360,
     "lightAngle": 360,
+    "lightColor": "",
     "lightAlpha": 1,
     "lightAnimation": {
+      "type": "",
       "speed": 5,
       "intensity": 5
     },
     "actorId": "VqodkROYQL7AVPOu",
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 1,
     "displayBars": 0,
-    "bar1": {},
-    "bar2": {},
+    "bar1": {
+      "attribute": ""
+    },
+    "bar2": {
+      "attribute": ""
+    },
     "randomImg": false
   },
   "items": [

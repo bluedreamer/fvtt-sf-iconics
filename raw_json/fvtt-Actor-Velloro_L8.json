@@ -84,7 +84,7 @@
       "hp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 60,
         "temp": null,
         "tempmax": null,
         "tooltip": []
@@ -92,13 +92,13 @@
       "sp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 112,
         "tooltip": []
       },
       "rp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 10,
         "tooltip": []
       },
       "init": {
@@ -148,7 +148,7 @@
       "biography": {
         "value": "<p>Velloro was adopted into a large ysoki family on the dusty, dying planet of Akiton as an infant. Members of his family worshipped Iomedae, goddess of justice and honorable battle&mdash;virtues the young lashunta gladly embraced.</p>\n<p>When Velloro reached adolescence, he became a gladiator in the VitariTech Coliseum, a venue for nonlethal combats. As Velloro moved up through the ranks, he became close with a fellow gladiator, a shobhad named Dhareen. She invited the lashunta to take the Test of the Mountain, climbing the towering moutain Ka. It was on this climb that Velloro learned to exert control over his surroundings, rebuilding the molecular lattice around him.</p>\n<p>Upon his return to the coliseum, Velloro&rsquo;s new powers earned him the nickname the Castrovel Crusher. But when his manager demanded he use these powers in lethal combat with Dhareen, he refused. Instead, Velloro turned an eye to the stars, where he knew there were others like his family&mdash;others who needed protection and assistance.</p>\n<p>&nbsp;</p>\n<h2>SPECIAL ABILITIES</h2>\n<p><strong>Aspect Embodiment (Ex)</strong> Once per combat, when Velloro hits multiple creatures in a single round with an attack or attacks (or effects that require an attack roll), he can gain 1 Entropy Point without taking an additional action.</p>\n<hr />\n<p><strong>Bodyguard </strong>As a reaction when an adjacent ally is attacked, Velloro can grant that ally a +2 circumstance bonus to its AC against that attack. If he does so, Velloro takes a &ndash;2 penalty to his own Armor Class until the beginning of his next turn.</p>\n<hr />\n<p><strong>Cleave </strong>Velloro can choose to take a &ndash;2 penalty to his AC until his next turn in order to make a melee attack against a foe adjacent to him as a standard action. If he hits, he can make a second melee attack against a different foe that is adjacent to both him and the first foe.</p>\n<hr />\n<p><strong>Draw Fire (Su)</strong> As a reaction when Velloro is in the area of an attack or effect that requires an attack roll, he can spend 1 Entropy Point to grant all allies in the area cover against that attack or effect.</p>\n<hr />\n<p><strong>Entropic Attunement (Su) </strong>As long as Velloro has at least 1 Entropy Point, his entropic strike ignores 8 hardness and, when his attack is a critical hit, the target must succeed at a DC 20 Fortitude save or become staggered for 1 round.</p>\n<hr />\n<p><strong>Entropic Charge (Su)</strong> When Velloro charges, he can attempt any combat maneuver for which he has the Improved Combat Maneuver feat in place of the normal melee attack. In addition, he can forgo gaining an Entropy Point for charging to ignore the normal charge penalties to his attack and AC, and to gain the ability to charge through difficult terrain.</p>\n<hr />\n<p><strong>Entropic Pool (Su)</strong> Velloro has a pool of Entropy Points (EP) that he can spend to fuel different abilities. He can have up to 6 EP in his entropic pool at a time, and he can gain EP only when involved in a combat encounter. When combat begins, Velloro gains 1 EP at the beginning of his first action; at the end of combat, he loses any Entropy Points he has remaining. He can gain EP in the following ways.</p>\n<ul>\n<li>While he has no Entropy Points, Velloro can spend 1 Resolve Point as a move action to gain 1 EP.</li>\n<li>Each time he takes 16 or more damage from a single attack or effect (after applying any effects that reduce that damage, such as energy resistance or mitigate), he gains 1 EP.</li>\n<li>If Velloro takes damage from a critical hit, he gains 1 EP, in addition to any he would gain from the attack&rsquo;s normal damage.</li>\n<li>If Velloro scores a critical hit on a significant enemy, he gains 1 EP.&nbsp;</li>\n<li>If he takes a full action to charge, Velloro gains 1 EP.</li>\n<li>If he takes two move actions on the same turn to move his speed each time, Velloro gains 1 EP.</li>\n<li>As a move action, Velloro can designate a willing adjacent ally as an entropic focus. They remain an entropic focus until the beginning of Velloro&rsquo;s next turn, unless they cease to be adjacent to him or he designates a new entropic focus (both of which end this effect). If Velloro&rsquo;s entropic focus takes 16 or more damage from a single attack or effect (after applying any ability to reduce that damage), he gains 1 EP.</li>\n</ul>\n<p>Velloro can expend Entropy Points in various ways, some of which come from his vanguard aspects and disciplines. As long as he has at least 1 EP in his entropic pool, he gains a +1 enhancement bonus to his Armor Class.</p>\n<ul>\n<li>As part of a full action to charge or a move action to move his speed, Velloro can expend 1 EP to gain a +10-foot enhancement bonus to his speed (normally land speed, but you can apply it any movement type he has).</li>\n<li>As a move action, Velloro can expend 1 EP to boost the damage of the next entropic strike attack he makes before the start of his next turn.&nbsp;</li>\n</ul>\n<p>He must decide how many EP to expend when he takes this move action, and he can&rsquo;t expend more than 6 EP. If the boosted entropic strike hits, he deals +1d4 damage for every EP expended.</p>\n<hr />\n<p><strong>Entropic Strike (Su) </strong>This is a one-handed magical advanced melee attack with the operative weapon special property that targets EAC. Velloro does not need a free hand to make this attack. The damage dealt by this attack is acid, bludgeoning, or both. He can deliver the attack with his body or through his shield.</p>\n<hr />\n<p><strong>Entropy Shield (Su) </strong>As part of any move action or full action he takes, Velloro can create a field of condensed,entropy that forms in place on one of his limbs to protect him as a field riot shield or tactical shield (he chooses which each time he creates the shield). The shield has no bulk, but it otherwise functions in all regards as a physical shield of the selected type. Velloro can dismiss the shield as part of any move or full action he takes, and it disappears at the end of his turn if he&rsquo;s not holding it.</p>\n<ul>\n<li>Field Riot Shield&mdash;Velloro gains a +1 shield bonus to AC and a +2 bonus to any bull rush combat maneuvers he attempts. As a move action, he can align the shield to give himself greater protection against one opponent, increasing his shield bonus to AC against attacks from that opponent to +2 until the beginning of his next turn. He also takes a &ndash;2 penalty to skill checks affected by armor check penalties.</li>\n<li>Field Tactical Shield&mdash;This shield gives Velloro a +1 bonus to AC when wielded.</li>\n</ul>\n<hr />\n<p><strong>Flatten Bullets (Su)</strong> When he would be hit by a ranged attack with a weapon that deals kinetic damage, Velloro can spend 1 Entropy Point as a reaction to attempt a Fortitude save (DC = 10 + 1-1/2 the CR or level of the attacker) to take half damage.</p>\n<hr />\n<p><strong>Great Cleave</strong> If he strikes a second target with the Cleave feat, Velloro can spend 1 Resolve Point to make a melee attack against each subsequent foe that is both adjacent to the last target and within his reach, as long as he hit the previous foe. He can&rsquo;t attack the same foe more than once.</p>\n<hr />\n<p><strong>Lashunta Magic</strong> Velloro has the following spell-like abilities.</p>\n<ul>\n<li><em>Daze</em>: This spell causes a humanoid creature of CR 3 or lower within 35 feet to be dazed for 1 round (Will DC 11 negates).</li>\n<li><em>Detect Thoughts</em>: Velloro can detect the surface thoughts of intelligent creatures within a 60-foot cone, and if he concentrates, he can attempt to read those thoughts (Will DC 12 negates).</li>\n<li><em>Psychokinetic Hand</em>: Once cast, as long as he concentrates (a standard action each round) Velloro can use a move action to move an object within 35 feet that weighs 10 pounds or less up to 15 feet. He can&rsquo;t perform fine manipulation (such as firing a weapon or using a computer), but can push a single button or close a container&rsquo;s lid.</li>\n</ul>\n<hr />\n<p><strong>Limited Telepathy (Su) </strong>Velloro can communicate telepathically with creatures within 30 feet that share a language with him.</p>\n<hr />\n<p><strong>Mitigate (Su)</strong> As a reaction when he takes damage, Velloro can spend 1 EP to reduce the damage he takes by 8. If he does, he can&rsquo;t gain any EP from that attack. Additionally, as a swift action, Velloro can remove any DR or energy resistance he has, or end the AC benefit of any ability or spell that increases his AC. If the effect granting DR or energy resistance has a duration, this ends the effect entirely for him. If he ends an AC benefit, that AC benefit is ended for the duration of the effect. If the ability does not normally have a duration, he suspends the listed benefits until the beginning of his next turn. Additionally, whenever Velloro is first affected by an ability or spell that grants him DR, energy resistance, or a bonus to AC, he can waive that benefit of the effect.</p>\n<hr />\n<p><strong>Reactive (Ex)</strong> Once per day, Velloro can take up to two reactions in a single round. He can still only take one reaction per triggering event.</p>\n<hr />\n<p><strong>Rugged </strong>This alternative racial trait grants the Toughness feat.Toughness Velloro gains a +4 bonus to many Constitution checks to avoid damage or negative consequences from harsh environments.</p>\n<hr />\n<p><strong>Uncanny </strong>Agility Velloro is immune to the flat-footed condition, opponents do not gain any bonuses to attack rolls for flanking Velloro or attacking when Velloro is prone, and covering fire and harrying fire to not provide any bonuses against Velloro.</p>\n<hr />\n<p><strong>Weapon Specialization</strong> Velloro adds his character level to damage dealt with melee weapons and half his character level to damage dealt with operative melee weapons and small arms (though he adds his full level to his entropic strike damage rolls). This is already been factored into his attacks above.</p>\n<p>&nbsp;</p>\n<h2>GEAR DESCRIPTIONS</h2>\n<p><strong>Wounding Advanced Semi-Auto Pistol</strong> This weapon can be fired 12 times before it needs to be reloaded. It has a range increment of 60 feet.</p>\n<hr />\n<p><strong>Jetpack</strong> Velloro gains a fly speed of 30 feet (average maneuverability) when activating his jetpack. The jetpack has a capacity of 40 charges and requires 2 charges per round when used. He can also use this upgrade for &ldquo;cruising flight&rdquo; at a usage of only 1 charge per minute, but he is flat-footed and off-target while doing so. Changing from normal flight to cruising flight or vice versa is a standard action. A jetpack can&rsquo;t lift Velloro if he&rsquo;s encumbered.</p>\n<hr />\n<p><strong>Lashunta Ringwear III</strong> While wearing this armor, Velloro can close its environmental seals and survive in a vacuum (or other harsh environment) for up to 8 days.</p>\n<hr />\n<p><strong>Mk 3 Serum of Healing</strong> Drinking a vial of this serum restores 6d8 HP</p>",
         "public": "",
-        "fullBodyImage": "worlds/sf-iconics/tokens/Velloro_Portrait.png",
+        "fullBodyImage": "modules/fvtt-sf-iconics/images/webp/Velloro-portrait.webp",
         "dateOfBirth": "",
         "age": 0,
         "height": "",
@@ -562,16 +562,18 @@
       "systemVersion": "0.9.0.0"
     }
   },
-  "img": "worlds/sf-iconics/tokens/Velloro.png",
+  "img": "modules/fvtt-sf-iconics/images/webp/Velloro-portrait.webp",
   "token": {
     "flags": {},
-    "name": "Velloro L1",
-    "displayName": 0,
-    "img": "worlds/sf-iconics/tokens/Velloro.png",
-    "tint": null,
+    "name": "Velloro",
+    "displayName": 50,
+    "img": "modules/fvtt-sf-iconics/images/webp/Velloro-portrait.webp",
+    "tint": "",
     "width": 1,
     "height": 1,
     "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
     "lockRotation": false,
     "rotation": 0,
     "vision": false,
@@ -581,17 +583,23 @@
     "brightLight": 0,
     "sightAngle": 360,
     "lightAngle": 360,
+    "lightColor": "",
     "lightAlpha": 1,
     "lightAnimation": {
+      "type": "",
       "speed": 5,
       "intensity": 5
     },
     "actorId": "k4DWDJSxhmgRapct",
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 1,
     "displayBars": 0,
-    "bar1": {},
-    "bar2": {},
+    "bar1": {
+      "attribute": ""
+    },
+    "bar2": {
+      "attribute": ""
+    },
     "randomImg": false
   },
   "items": [

@@ -84,7 +84,7 @@
       "hp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 34,
         "temp": null,
         "tempmax": null,
         "tooltip": []
@@ -92,13 +92,13 @@
       "sp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 32,
         "tooltip": []
       },
       "rp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 5,
         "tooltip": []
       },
       "init": {
@@ -148,7 +148,7 @@
       "biography": {
         "value": "<h2>SPECIAL ABILITIES</h2>\n<p><strong>Cleave </strong>Obozaya can take a &ndash;2 penalty to her AC until her next turn in order to use the Cleave feat. This allows her to make a melee attack against a foe adjacent to her as a standard action. If she hits, she can make a second melee attack against a different foe adjacent to both her and the first foe.</p>\n<hr />\n<p><strong>Coordinated Shot</strong> When Obozaya is threatening a foe with a melee weapon, any ally with line of sight to that foe without Obozaya granting the foe cover gains a +1 bonus to ranged attack rolls against the foe.</p>\n<hr />\n<p><strong>Deadly Aim</strong> When Obozaya takes the attack or full attack action with a weapon, she can take a &ndash;2 penalty to her attack rolls to add 2 to her damage.</p>\n<hr />\n<p><strong>Low-Light Vision</strong> Obozaya can see in dim light as if it were normal light.</p>\n<hr />\n<p><strong>Melee Striker</strong> Obozaya adds an additional bonus to her melee damage equal to half her Strength bonus. This is already added in to her attacks above.&nbsp;</p>\n<hr />\n<p><strong>Mobility </strong>Obozaya gains a +4 bonus to her AC against attacks of opportunity she provokes by moving out of a threatened square.</p>\n<hr />\n<p><strong>Natural Weapons</strong> Obozaya&rsquo;s unarmed attacks deal lethal damage and aren&rsquo;t considered archaic, and she adds 1-1/2 &times; her character level to the damage (rather than just adding her level with Weapon Specialization).</p>\n<p>&nbsp;</p>\n<h2>GEAR DESCRIPTIONS</h2>\n<p><strong>Autotarget Rifle</strong> This two-handed rifle fires physical bullets and can be fired 10 times before it must be reloaded. As a full action, Obozaya can attack with it in automatic mode, using all its remaining ammunition and attacking multiple targets in a 30-foot cone. Beginning with the nearest target, Obozaya makes one attack roll against each target in the cone. This expends 2 rounds of ammunition per target attacked, and when the rifle runs out of ammunition, it can&rsquo;t target any more creatures. Obozaya rolls damage only once, applying it to all targets hit.</p>\n<hr />\n<p><strong>Ember Flame Doshko</strong> This two-handed weapon has a battery with 20 charges and uses 1 charge per minute it&rsquo;s active.</p>\n<hr />\n<p><strong>Ifrit-Class Flamethrower</strong> This two-handed ranged weapon can be fired five times before its petrol tank must be refilled or replaced. It targets all creatures in a 15-foot cone. Obozaya makes an attack roll against each creature in this area, then rolls damage once and applies it to all creatures she hits.</p>\n<hr />\n<p><strong>Lashunta Ringwear II </strong>While wearing this armor, Obozaya can close its environmental seals and survive in a vacuum (or other harsh environment) for up to 5 days.</p>\n<hr />\n<p><strong>Medpatch </strong>Obozaya can use this to attempt an untrained Medicine check with a +10 bonus to perform the first aid, long-term stability, treat disease, or treat drugs or poison task.&nbsp;</p>\n<hr />\n<p><strong>Mk 1 Serum of Healing</strong> Drinking a vial of this serum restores 1d8 HP.</p>",
         "public": "",
-        "fullBodyImage": "worlds/sf-iconics/tokens/Obozaya_Portrait.png",
+        "fullBodyImage": "modules/fvtt-sf-iconics/images/webp/Obozaya-portrait.webp",
         "dateOfBirth": "",
         "age": 0,
         "height": "",
@@ -550,16 +550,18 @@
       "systemVersion": "0.9.0.0"
     }
   },
-  "img": "worlds/sf-iconics/tokens/Obozaya.png",
+  "img": "modules/fvtt-sf-iconics/images/webp/Obozaya-portrait.webp",
   "token": {
     "flags": {},
-    "name": "Obozaya L1",
-    "displayName": 0,
-    "img": "worlds/sf-iconics/tokens/Obozaya.png",
-    "tint": null,
+    "name": "Obozaya",
+    "displayName": 50,
+    "img": "modules/fvtt-sf-iconics/images/webp/Obozaya-token.webp",
+    "tint": "",
     "width": 1,
     "height": 1,
     "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
     "lockRotation": false,
     "rotation": 0,
     "vision": false,
@@ -569,17 +571,23 @@
     "brightLight": 0,
     "sightAngle": 360,
     "lightAngle": 360,
+    "lightColor": "",
     "lightAlpha": 1,
     "lightAnimation": {
+      "type": "",
       "speed": 5,
       "intensity": 5
     },
     "actorId": "sCGBRhoN1feTtmwW",
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 1,
     "displayBars": 0,
-    "bar1": {},
-    "bar2": {},
+    "bar1": {
+      "attribute": ""
+    },
+    "bar2": {
+      "attribute": ""
+    },
     "randomImg": false
   },
   "items": [

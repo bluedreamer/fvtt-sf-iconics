@@ -84,7 +84,7 @@
       "hp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 28,
         "temp": null,
         "tempmax": null,
         "tooltip": []
@@ -92,13 +92,13 @@
       "sp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 24,
         "tooltip": []
       },
       "rp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 6,
         "tooltip": []
       },
       "init": {
@@ -148,7 +148,7 @@
       "biography": {
         "value": "<p>Born on Aballon, Iseph has spent a lifetime running from mysterious forces that want them dead. As a &ldquo;retired&rdquo; black ops agent, Iseph hires on with freelance adventuring crews as a pilot specializing in dangerous transport or exploratory missions. If those jobs require infiltration or a well-placed bullet from the shadows&mdash;well, that costs extra.</p>\n<p>&nbsp;</p>\n<h2>SPECIAL ABILITIES</h2>\n<p><strong>Constructed </strong>For effects targeting creatures by type, Iseph counts as both a construct and a humanoid (whichever is worse for Iseph).</p>\n<hr />\n<p><strong>Darkvision </strong>Iseph can see up to 60 feet in total darkness.</p>\n<hr />\n<p><strong>Debilitating Trick (Ex)</strong> When Iseph hits an enemy with a trick attack, Iseph can choose to make that enemy either flat-footed or off-target until the beginning of Iseph&rsquo;s next turn.Dive for Cover When Iseph attempts a Reflex save against an area attack or area effect, they can choose to fall prone in an adjacent space in order to roll the saving throw twice, taking the better of the two results.</p>\n<hr />\n<p><strong>Evasion (Ex) </strong>If Iseph succeeds at a Reflex save against an effect that has a partial effect on a successful save, they instead suffer no effect.</p>\n<hr />\n<p><strong>Flat Affect</strong> The DC of a Sense Motive check attempted against Iseph increases by 2.</p>\n<hr />\n<p><strong>Kip Up</strong> Iseph can stand from prone as a swift action, rather than a move action.</p>\n<hr />\n<p><strong>Low-Light Vision</strong> Iseph can see in dim light as if it were normal light.</p>\n<hr />\n<p><strong>Multi-Weapon Fighting</strong> When Iseph makes a full attack with two or more operative melee weapons or small arms, reduce the penalty to each attack from &ndash;4 to &ndash;3.&nbsp;</p>\n<hr />\n<p><strong>Trick Attack</strong> As a full action, Iseph can move up to 40 feet and make a single attack with a small arm (or a melee weapon with the operative special property) as a trick attack. Just before making the attack, Iseph attempts a Bluff, Intimidate, or Stealth check (whichever is better for Iseph) with a DC equal to 20 + the target&rsquo;s CR. If the skill check is successful, the attack deals an additional 1d8 damage and the target is flat-footed against this attack.</p>\n<hr />\n<p><strong>Uncanny Pilot (Ex) </strong>When Iseph attacks while driving a vehicle, they take only half the vehicle&rsquo;s normal penalty to their attack roll. When in a chase, Iseph gains a +2 bonus to skill checks when attempting the evade or trick pilot actions.</p>\n<hr />\n<p><strong>Upgrade Slot</strong> Iseph has an internal quick-release sheath normally installed in armor as an upgrade. This can store a single one-handed weapon, which Iseph can draw as a swift action.</p>\n<p>&nbsp;</p>\n<h2>GEAR DESCRIPTIONS</h2>\n<p><strong>Defrex Hide</strong> While wearing this armor, Iseph can close its environmental seals and survive in a vacuum (and other harsh environments) for up to 4 days. The armor has jump jets as an upgrade, allowing Iseph to fly up to 30 feet as part of a move action. At the end of this flight Iseph must land or they fall. Iseph can do this 10 times before the jump jets&rsquo; battery must be recharged or replaced.</p>\n<hr />\n<p><strong>Medpatch </strong>Iseph can use this to attempt an untrained Medicine check with a +10 bonus to perform the first aid, long-term stability, treat disease, or treat drugs or poison task.&nbsp;</p>\n<hr />\n<p><strong>Mk 1 Serum of Healing</strong> Drinking a vial of this serum restores 1d8 HP.</p>\n<hr />\n<p><strong>Mk 2 Serum of Healing</strong> Drinking a vial of this serum restores 3d8 HP.</p>\n<hr />\n<p><strong>Static Arc Pistol</strong> This weapon fires a bolt of electricity. On a critical hit, it arcs and deals 2 electricity damage to a new target of your choice that is adjacent to your original target. As a move action, it can be set to deal nonlethal damage. It can be fired 10 times before its battery must be recharged or replaced.</p>\n<hr />\n<p><strong>Tactical Semi-Auto Pistol</strong> This weapon fires physical bullets and can be fired nine times before it must be reloaded.</p>\n<hr />\n<p><strong>Titanium Alloy Cable</strong> This 40-foot-long cable is designed for climbing or securing loose cargo.</p>",
         "public": "",
-        "fullBodyImage": "worlds/sf-iconics/tokens/Iseph_Portrait.png",
+        "fullBodyImage": "modules/fvtt-sf-iconics/images/webp/Iseph-portrait.webp",
         "dateOfBirth": "",
         "age": 0,
         "height": "",
@@ -547,16 +547,18 @@
       "systemVersion": "0.9.0.0"
     }
   },
-  "img": "worlds/sf-iconics/tokens/Iseph.png",
+  "img": "modules/fvtt-sf-iconics/images/webp/Iseph-portrait.webp",
   "token": {
     "flags": {},
-    "name": "Iseph L1",
-    "displayName": 0,
-    "img": "worlds/sf-iconics/tokens/Iseph.png",
-    "tint": null,
+    "name": "Iseph",
+    "displayName": 50,
+    "img": "modules/fvtt-sf-iconics/images/webp/Iseph-token.webp",
+    "tint": "",
     "width": 1,
     "height": 1,
     "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
     "lockRotation": false,
     "rotation": 0,
     "vision": false,
@@ -566,17 +568,23 @@
     "brightLight": 0,
     "sightAngle": 360,
     "lightAngle": 360,
+    "lightColor": "",
     "lightAlpha": 1,
     "lightAnimation": {
+      "type": "",
       "speed": 5,
       "intensity": 5
     },
     "actorId": "BWl3Rg4g3M6ov2LC",
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 1,
     "displayBars": 0,
-    "bar1": {},
-    "bar2": {},
+    "bar1": {
+      "attribute": ""
+    },
+    "bar2": {
+      "attribute": ""
+    },
     "randomImg": false
   },
   "items": [

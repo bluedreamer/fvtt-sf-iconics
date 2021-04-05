@@ -84,7 +84,7 @@
       "hp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 11,
         "temp": null,
         "tempmax": null,
         "tooltip": []
@@ -92,13 +92,13 @@
       "sp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 11,
         "tooltip": []
       },
       "rp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 4,
         "tooltip": []
       },
       "init": {
@@ -148,7 +148,7 @@
       "biography": {
         "value": "<h2>SPECIAL ABILITIES</h2>\n<p><strong>Bodyguard </strong>As a reaction when an adjacent ally is attacked, Velloro can grant that ally a +2 circumstance bonus to its AC against that attack. If he does so, Velloro takes a &ndash;2 penalty to his own Armor Class until the beginning of his next turn.</p>\n<hr />\n<p><strong>Entropic Pool (Su) </strong>Velloro has a pool of Entropy Points (EP) that he can spend to fuel different abilities. He can have up to 3 EP in his entropic pool at a time, and he can gain EP only when involved in a combat encounter. When combat begins, Velloro gains 1 EP at the beginning of his first action; at the end of combat, he loses any Entropy Points he has remaining. He can gain EP in the following ways.</p>\n<ul>\n<li>While he has no Entropy Points, Velloro can spend 1 Resolve Point as a move action to gain 1 EP.</li>\n<li>Each time he takes 2 or more damage from a single attack or effect (after applying any effects that reduce that damage), he gains 1 EP.</li>\n<li>If Velloro takes damage from a critical hit, he gains 1 EP, in addition to any he gains from the attack&rsquo;s damage.</li>\n<li>If Velloro scores a critical hit on a significant enemy, he gains 1 EP.&nbsp;</li>\n<li>If he takes a full action to charge, Velloro gains 1 EP.</li>\n<li>If he takes two move actions on the same turn to move his speed each time, Velloro gains 1 EP.</li>\n<li>As a move action, Velloro can designate a willing adjacent ally as an entropic focus. They remain an entropic focus until the beginning of Velloro&rsquo;s next turn, unless they cease to be adjacent to him or he designates a new entropic focus (both of which end this effect). If Velloro&rsquo;s entropic focus takes 2 or more damage from a single attack or effect (after applying any ability to reduce that damage), he gains 1 EP.</li>\n</ul>\n<p>Velloro can expend Entropy Points in various ways. As long as he has at least 1 EP in his entropic pool, he gains a +1 enhancement bonus to his Armor Class (not included).</p>\n<ul>\n<li>As part of a full action to charge or a move action to move his speed, Velloro can expend 1 EP to gain a +10-foot enhancement bonus to his speed (normally land speed, but he can apply it to any movement type he has).</li>\n<li>As a move action, Velloro can expend 1 EP to boost the damage of the next entropic strike attack he makes before the start of his next turn. If the boosted entropic strike hits, he deals +1d4 damage.</li>\n</ul>\n<hr />\n<p><strong>Entropic Strike (Su) </strong>This is a one-handed magical advanced melee attack with the operative weapon special property that targets EAC. Velloro does not need a free hand to make this attack. The damage dealt by this attack is acid, bludgeoning, or both. He can deliver the attack with his body or through his shield.</p>\n<hr />\n<p><strong>Lashunta Magic</strong> Velloro has the following spell-like abilities.</p>\n<ul>\n<li><em>Daze</em>: Velloro causes a humanoid creature of CR 3 or lower within 25 feet to be dazed for 1 round (Will DC 11 negates).</li>\n<li><em>Detect Thoughts</em>: With this spell, Velloro can detect the surface thoughts of intelligent creatures within a 60-foot cone, and if he concentrates, he can attempt to read those thoughts (Will DC 12 negates).</li>\n<li><em>Psychokinetic Hand</em>: Once cast, as long as he concentrates (a standard action each round), Velloro can use a move action to move an object within 25 feet that weighs 10 pounds or less up to 15 feet. He can&rsquo;t perform fine manipulation (such as firing a weapon or using a computer), but can push a single button or close a container&rsquo;s lid.</li>\n</ul>\n<hr />\n<p><strong>Limited Telepathy (Su) </strong>Velloro can communicate telepathically with creatures within 30 feet that share a language with him.</p>\n<hr />\n<p><strong>Rugged </strong>This alternative racial trait grants the Toughness feat.</p>\n<hr />\n<p><strong>Toughness </strong>Velloro gains a +4 bonus to many Constitution checks to avoid damage or negative consequences from harsh environments.</p>\n<p>&nbsp;</p>\n<h2>GEAR DESCRIPTIONS</h2>\n<p><strong>Basic Tactical Shield</strong> As a move action, Velloro can align the shield to give him greater protection against one opponent, granting him a +1 shield bonus to AC against attacks from that opponent until the beginning of his next turn.</p>\n<hr />\n<p><strong>Lashunta Ringwear I </strong>Velloro can close the armor&rsquo;s environmental seals and survive in a vacuum (or other harsh environment) for up to 24 hours.</p>\n<hr />\n<p><strong>Mk 1 Serum of Healing</strong> Drinking a vial of this serum restores 1d8 HP.</p>\n<hr />\n<p><strong>Tactical Semi-Auto Pistol</strong> This weapon can be fired 9 times before it needs to be reloaded. Its range increment is 30 feet</p>",
         "public": "",
-        "fullBodyImage": "worlds/sf-iconics/tokens/Velloro_Portrait.png",
+        "fullBodyImage": "modules/fvtt-sf-iconics/images/webp/Velloro-portrait.webp",
         "dateOfBirth": "",
         "age": 0,
         "height": "",
@@ -548,16 +548,18 @@
       "systemVersion": "0.9.0.0"
     }
   },
-  "img": "worlds/sf-iconics/tokens/Velloro.png",
+  "img": "modules/fvtt-sf-iconics/images/webp/Velloro-portrait.webp",
   "token": {
     "flags": {},
-    "name": "Velloro L1",
-    "displayName": 0,
-    "img": "worlds/sf-iconics/tokens/Velloro.png",
-    "tint": null,
+    "name": "Velloro",
+    "displayName": 50,
+    "img": "modules/fvtt-sf-iconics/images/webp/Velloro-token.webp",
+    "tint": "",
     "width": 1,
     "height": 1,
     "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
     "lockRotation": false,
     "rotation": 0,
     "vision": false,
@@ -567,17 +569,23 @@
     "brightLight": 0,
     "sightAngle": 360,
     "lightAngle": 360,
+    "lightColor": "",
     "lightAlpha": 1,
     "lightAnimation": {
+      "type": "",
       "speed": 5,
       "intensity": 5
     },
     "actorId": "IaG3t4dRsqsOcaxJ",
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 1,
     "displayBars": 0,
-    "bar1": {},
-    "bar2": {},
+    "bar1": {
+      "attribute": ""
+    },
+    "bar2": {
+      "attribute": ""
+    },
     "randomImg": false
   },
   "items": [

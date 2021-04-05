@@ -84,7 +84,7 @@
       "hp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 32,
         "temp": null,
         "tempmax": null,
         "tooltip": []
@@ -92,13 +92,13 @@
       "sp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 32,
         "tooltip": []
       },
       "rp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 3,
         "tooltip": []
       },
       "init": {
@@ -148,7 +148,7 @@
       "biography": {
         "value": "<p>Altronus Barasul Dovenayan was born into House Holdare, a traditional and respected family on the kasatha generation-ship-turned-homeland Idari, and he trained to be an adata&mdash;one of the scholar-priests who oversee the removal and preservation of thin slices of the brains of deceased kasathas. Yet while Altronus was an excellent scholar, he had trouble focusing on a single topic for long. Inevitably, some interesting fact in his studies would pique his interest and draw his research off into unrelated sidetracks. This broad, self-directed education made him adept at making connections between disparate fields, yet earned him little love from traditionalist teachers.</p>\n<p>One of Altronus&rsquo;s more sympathetic teachers felt his wandering focus could be brought into line with training in the philosophy of the Cycle, the guiding philosophy of the solarians. Altronus was accepted as a student into a prestigious cosmonastery and taught to draw strength and focus from the endless repetition of celestial creation and destruction. He took to the training immediately, and soon was among the most advanced students. Yet Altronus was still slated for a career as an adata, and relished being allowed to take on guard shifts at the ship&rsquo;s famed Sholar Adat. There he watched over rooms of stasis pods where adata connected to the Sensorium, the technomagical temple archive where flashes of memories from archived kasathan brains could be experienced.</p>\n<p>During one of his shifts, Altronus was assigned to an inactive Sensorium access node. Though most such shifts were uneventful, on that night Altronus was surprised by the appearance of a senior adata, Remura Esolla Kaiban of Clan Senthen, flashing a warrant to allow unscheduled access to the memory of a recently deceased citizen. Thanks to his tendency to collect trivia, Altronus knew Kaiban was scheduled to be giving a lecture at the far end of the Idari. What, he wondered, could be so important that the revered adata would end the lecture early?&nbsp;</p>\n<p>Altronus knew he should mind his own business, but instead contacted a friend at the far end of the ship, who informed him that not only had Adata Kaiban not left the lecture early&mdash;she was still on the stage.</p>\n<p>Immediately Altronus sounded an intruder alert, and rushed to confront the false adata. To his surprise, Altronus discovered not a kasatha, but a small, sickly, gray humanoid with long wires latched onto the Sensorium feed. Altronus leapt to activate the Sensorium emergency disconnect, but the creature attacked. Through the resulting haze of pain, Altronus managed to seal the access node&rsquo;s security force fields, trapping himself and the gray intruder inside.</p>\n<p>Unarmed, Altronus had little chance of holding the intruder at bay and no way to heal his wounds. For the first time in his life, Altronus confronted the fact that he was going to die. Like the stars themselves, he too would be extinguished, his body breaking down and being reincorporated over millennia into new worlds and stars. At last, he truly understood the&nbsp; Cycle. With his final moments, he reached out to the universe, embracing it. And the universe answered.</p>\n<p>Altronus was as surprised as the strange alien to find a long, shining golden blade suddenly sprouting from his lower right forearm. Yet he had seen enough solarian training to recognize the blade of stellar energy, and leapt to place himself between the creature and the node&rsquo;s access panels. The two fought in grim silence. Outmatched, Altronus knew he didn&rsquo;t need to win&mdash;only to buy time, keeping the creature from finishing its infiltration until help arrived.</p>\n<p>At last, ship security arrived, dragging the half-dead Altronus from the fight. Upon seeing that it was outnumbered, the bulbous-headed alien toggled a device on its arm&mdash;and detonated its own head like a bomb.</p>\n<p>The security team questioned Altronus. When several true adata arrived, they immediately attempted to pull meaning from the alien brain-splatter, recovering two ideas: that gray spies had deeply infiltrated the Pact Worlds, and that something important called &ldquo;Phase Three&rdquo; was approaching.</p>\n<p>The Doyenate of the Idari was informed, and additional security added to Sensorium access nodes. While the matter was officially left open to investigation, official attention quickly turned elsewhere.</p>\n<p>But Altronus couldn&rsquo;t let the issue lie. As it came time for Altronus to begin his Tempering, he realized he could never accept a role as an adata while the mystery of the gray invader hung over him. He left the Idari, vowing to chase down every strange occurrence until he unraveled the alien conspiracy.&nbsp;</p>\n<p>Now an adult, Altronus has remained on his Tempering for much longer than the traditional year. He often signs on with adventuring companies as a guard, researcher, or scout in order to support himself, yet his primary goal always remains researching the shadowy web of plots he first glimpsed that night in the access node. Ironically, while he comes across to many kasathas as impetuous and offbeat, his natural kasathan love of traditions, devotion to the Cycle, and scholar&rsquo;s desire to monologue about his research often causes members of other races to see him as an eccentric professor or addled conspiracy theorist. Any skepticism as to his usefulness, however, disappears in the first firefight, as Altronus launches himself into the fray and &ldquo;lets the cosmos take control,&rdquo; slicing through hordes of enemies with terrifying calm.</p>\n<h2>SPECIAL ABILITIES</h2>\n<p><strong>Black Hole (Su)</strong> When fully attuned to graviton mode, as a standard action Altronus can pull any number of creatures he targets that are within 20 feet of him toward him. Each target must succeed at a DC 13 Fortitude save or move 5 feet closer. This movement doesn&rsquo;t provoke attacks of opportunity. After using this power, he becomes unattuned.</p>\n<hr />\n<p><strong>Blind-Fight</strong> When Altronus misses a melee attack because of concealment, he can reroll his miss chance once to see if he actually hit. He is not flat-footed against melee attacks from creatures he cannot see, can withdraw from creatures he cannot see, and doesn&rsquo;t need to attempt an Acrobatics check to move at full speed while blinded.</p>\n<hr />\n<p><strong>Dark Matter</strong> As a move action, Altronus can gain DR 1/&mdash; for 1 round. When Altronus is attuned or fully attuned to graviton mode, he can instead gain DR 2/&mdash;, and the DR lasts as long as he remains graviton-attuned.</p>\n<hr />\n<p><strong>Darkvision</strong> Altronus can see up to 60 feet in total darkness.</p>\n<hr />\n<p><strong>Desert Stride</strong> Altronus can move through nonmagical difficult terrain in deserts, hills, and mountains at his normal rate.</p>\n<hr />\n<p><strong>Four-Armed</strong> Altronus has four arms, all of which can wield and carry items normally, though this does not affect how many attacks he can make each round.</p>\n<hr />\n<p><strong>Plasma Sheath</strong> As a move action, Altronus can cause all his solar weapon damage to become fire damage (though attacks still target KAC) for 1 round. If he is attuned or fully attuned to photon mode, he also increases the damage dealt by 2, and the effect lasts as long as he maintains stellar attunement.</p>\n<hr />\n<p><strong>Sidereal Influence</strong> Outside of combat, Altronus can tap into stellar influences to assist in him various tasks. He must meditate for 1 minute and then chooses either Diplomacy or Stealth. He adds a +1d6 insight bonus to checks with the selected skill until he enters combat, falls unconscious, sleeps, or meditates to choose another skill.</p>\n<hr />\n<p><strong>Solar Manifestation (Solar Weapon) </strong>Altronus has a mote of yellow light that orbits him. He can grab this and turn it into a solar weapon with the same ease as drawing a weapon. It is considered a one-handed advanced melee weapon that deals 1d6 slashing damage.</p>\n<hr />\n<p><strong>Stellar Mode</strong> At the beginning of Altronus&rsquo;s first round in a combat, he must choose one of three modes, graviton-attuned, photon-attuned, or unattuned. If graviton- or photon-attuned, he gains 1 attunement point for the appropriate mode. Each round, he either maintains that mode (gaining another point of attunement, to a maximum of 3), or becomes unattuned (losing all attunement points, and he can then enter a new mode on the following turn). If Altronus has 1 or 2 points in a mode, he is attuned to that mode. If he has 3 points in a mode, he is fully attuned to that mode. Some of his abilities function only when he is attuned or fully attuned to the graviton or photon mode.</p>\n<ul>\n<li>When attuned in graviton mode, Altronus gains a +1 insight bonus to his Reflex saves.</li>\n<li>When attuned in photon mode, Altronus gains a +1 insight bonus to damage rolls.</li>\n</ul>\n<hr />\n<p><strong>Supernova (Su) </strong>When Altronus is fully attuned to photon mode, as a standard action he can deal 5d6 fire damage to all creatures within 10 feet of him (Reflex DC 13 half). After using this power, Altronus becomes unattuned.</p>\n<p>&nbsp;</p>\n<h2>GEAR DESCRIPTIONS</h2>\n<p><strong>Beacon </strong>This handheld light increases the light level by one step in a 50-foot radius. It can operate for 10 hours before its battery must be recharged or replaced.</p>\n<hr />\n<p><strong>Defrex Hide</strong> While wearing this armor, Altronus can close its environmental seals and survive in a vacuum (or other harsh environment) for up to 4 days. Its infrared sensors give Altronus darkvision.&nbsp;</p>\n<hr />\n<p><strong>Flashlight </strong>This handheld light increases the light level by one step in a 20-foot cone. It can operate for 10 hours before its battery must be recharged or replaced.</p>\n<hr />\n<p><strong>Least Graviton Crystal</strong> This solarian weapon crystal is part of Altronus&rsquo;s solar manifestation. It adds 1d3 damage and the knockdown critical effect to his solar weapon (these benefits are already added in to his solar weapon attack above).</p>\n<hr />\n<p><strong>Medpatch</strong> Altronus can use this to attempt an untrained Medicine check with a +10 bonus to perform the first aid, long-term stability, treat disease, or treat drugs or poison task.</p>\n<hr />\n<p><strong>Mk 1 Serum of Healing</strong> Drinking a vial of this serum restores 1d8 HP.</p>\n<hr />\n<p><strong>Tactical Semi-Auto Pistol</strong> This small arms weapon fires physical bullets and can be fired nine times before it must be reloaded.</p>\n<hr />\n<p><strong>Titanium Alloy Cable</strong> This 100-foot-long cable is designed for climbing or securing loose cargo.</p>",
         "public": "",
-        "fullBodyImage": "worlds/sf-iconics/tokens/Altronus_Portrait.png",
+        "fullBodyImage": "modules/fvtt-sf-iconics/images/webp/Altronus-portrait.webp",
         "dateOfBirth": "",
         "age": 0,
         "height": "",
@@ -546,16 +546,18 @@
       "systemVersion": "0.9.0.0"
     }
   },
-  "img": "worlds/sf-iconics/tokens/Altronus.png",
+  "img": "modules/fvtt-sf-iconics/images/webp/Altronus-portrait.webp",
   "token": {
     "flags": {},
-    "name": "Altronus L1",
+    "name": "Altronus",
     "displayName": 0,
-    "img": "worlds/sf-iconics/tokens/Altronus.png",
-    "tint": null,
+    "img": "modules/fvtt-sf-iconics/images/webp/Altronus-token.webp",
+    "tint": "",
     "width": 1,
     "height": 1,
     "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
     "lockRotation": false,
     "rotation": 0,
     "vision": false,
@@ -565,17 +567,23 @@
     "brightLight": 0,
     "sightAngle": 360,
     "lightAngle": 360,
+    "lightColor": "",
     "lightAlpha": 1,
     "lightAnimation": {
+      "type": "",
       "speed": 5,
       "intensity": 5
     },
     "actorId": "tuyCQKxKvHj7Yy5Y",
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 1,
     "displayBars": 0,
-    "bar1": {},
-    "bar2": {},
+    "bar1": {
+      "attribute": ""
+    },
+    "bar2": {
+      "attribute": ""
+    },
     "randomImg": false
   },
   "items": [

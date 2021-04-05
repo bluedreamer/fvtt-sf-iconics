@@ -84,7 +84,7 @@
       "hp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 52,
         "temp": null,
         "tempmax": null,
         "tooltip": []
@@ -92,13 +92,13 @@
       "sp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 56,
         "tooltip": []
       },
       "rp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 8,
         "tooltip": []
       },
       "init": {
@@ -148,7 +148,7 @@
       "biography": {
         "value": "<p>Iseph awoke in a black-market renewal cr&egrave;che on Aballon. Around them, the dingy warehouse was completely empty, save for a pen and a note in the center of the concrete floor. Clearly hastily scrawled, the note read only: Run. Hide. Retaliate. Beware the mark. Next to the words was a drawing of a symbol&mdash;the same inexplicable design branded on Iseph&rsquo;s chest. Yet the biggest shock was when Iseph picked up the pen, as the note&rsquo;s writer had clearly intended&mdash;for the handwriting on the note matched Iseph&rsquo;s own.</p>\n<hr />\n<p>Confused and disoriented, Iseph did as the note instructed, doing their best to disappear into Aballon&rsquo;s bustling android population. Yet the questions raised by the note continued to plague them. Who had worn their body before them? Who were they running from, and why? Eventually, Iseph began making inquiries. All of these searches failed, yet in curious ways, as if the information was being actively redacted. Worse, Iseph began to get the sense of being watched. After a month of forays into they city&rsquo;s underworld, Iseph at last tracked down someone who claimed to recognize the mark, but who insisted on meeting in person at a nearby virus bar.&nbsp;</p>\n<hr />\n<p>Iseph was almost to the tavern when it exploded in a massive fireball, the blast consuming an entire city block.</p>\n<hr />\n<p>Thoroughly spooked, Iseph fled Aballon, taking passage on a ship to the Diaspora. Yet as they worked there, piloting rock-hopper shuttles and mining tugs, Iseph&rsquo;s fear turned to anger. They met android escapees from illegal colonies in the Vast, bearing blatant symbols of corporate ownership and scars from cruel disciplinary implants, and began to suspect what their own mark might say about their origins. Incensed, Iseph made contact with the Android Abolitionist Front, and under their guidance became a black ops expert. Eventually a disagreement with their handler over a messy job led Iseph to go independent. Today, Iseph hires on with freelancer crews as an elite pilot specializing in dangerous transport or exploratory missions&mdash;and if those jobs sometimes require a little infiltration or a bullet from the shadows, well, that costs extra.&nbsp;</p>\n<hr />\n<p>Though paranoia often makes Iseph a loner, the android craves companionship, and is fiercely loyal to those who prove themselves trustworthy. Iseph questions or rejects many aspects of mainstream Pact Worlds culture, and enjoys exploring the countercultures on different worlds. Iseph believes the ends often justify the means, yet strives to only take on jobs that fit their sense of morality, and an initial focus on android rights has broadened into a tendency to identify with oppressed people everywhere. While Iseph finds the most joy in flying vehicles&mdash;usually fast and recklessly&mdash;their infiltration abilities remain sharp, and the former assassin has no objections to pulling out their sniper rifle when a cause is just.</p>\n<p>&nbsp;</p>\n<h2>SPECIAL ABILITIES</h2>\n<p><strong>Cloaking Field (Ex)</strong> As a move action, Iseph can activate their cloaking field, allowing them to attempt Stealth checks even when being directly observed and with no place to hide. If Iseph remains perfectly still, they gain a +10 bonus to Stealth checks (which does not stack with invisibility) until they move. This cloaking field lasts for up to 10 rounds before it becomes inactive. While inactive, it recharges 1 round of use per minute.</p>\n<hr />\n<p><strong>Constructed</strong> For effects targeting creatures by type, Iseph counts as both a construct and a humanoid (whichever is worse for Iseph).</p>\n<hr />\n<p><strong>Darkvision Iseph</strong> can see up to 60 feet in total darkness.</p>\n<hr />\n<p><strong>Debilitating Trick (Ex) </strong>When Iseph hits an enemy with his trick attack, Iseph can choose to make that enemy either flat-footed or off-target until the beginning of Iseph&rsquo;s next turn. Iseph can instead apply the effect of interfering shot.</p>\n<hr />\n<p><strong>Dive for Cover</strong> When Iseph attempts a Reflex save against an area attack or area effect, they can choose to fall prone in an adjacent space in order to roll the saving throw twice, taking the better of the two results.</p>\n<hr />\n<p><strong>Evasion (Ex) </strong>If Iseph succeeds at a Reflex save against an effect that has a partial effect on a successful save, they instead suffer no effect.</p>\n<hr />\n<p><strong>Flat Affect</strong> The DC of a Sense Motive check attempted against Iseph increases by 2.</p>\n<hr />\n<p><strong>Interfering Shot (Ex) </strong>Iseph adds being able to prevent a target from using reactions until the end of Iseph&rsquo;s next turn to the list of effects they can apply with the debilitating trick ability.</p>\n<hr />\n<p><strong>Kip&nbsp;Up</strong> Iseph can stand from prone as a swift action, rather than a move action.</p>\n<hr />\n<p><strong>Multi-Weapon</strong> Fighting When Iseph makes a full attack with two or more operative melee weapons or small arms, reduce the penalty to each attack from &ndash;4 to &ndash;3.&nbsp;</p>\n<hr />\n<p><strong>Lone Wolf</strong> When attempting a check using a skill they have no ranks in as part of a role in starship combat, or to directly repair their own ship, Iseph can act as if they had 4 ranks in that skill (gaining the ability to attempt the check if the skill requires training, the +3 bonus from being trained, and the +4 bonus to the check for having 4 ranks).</p>\n<hr />\n<p><strong>Low-Light Vision</strong> Iseph can see in dim light as if it was normal light.</p>\n<hr />\n<p><strong>Sky Jockey</strong> When Iseph uses a device to fly, their fly speed is increased by 10 feet (this is already incorporated into the stat block). If Iseph operates a flying vehicle, its fly speed increases by 10. When they are in the pilot role of a starship, the starship&rsquo;s speed increases by 1.</p>\n<hr />\n<p><strong>Specialization Skill Mastery</strong> When Iseph attempts an Acrobatics or Stealth check, they can take 10 even if stress and distractions would normally prevent them from doing so.</p>\n<hr />\n<p><strong>Trick Attack</strong> As a full action, Iseph can move up to 40 feet and make a single attack with a small arm (or a melee weapon with the operative special property) as a trick attack. Just before making the attack, Iseph attempts a Bluff, Intimidate, or Stealth check (whichever is better for Iseph) with a DC equal to 20 + the target&rsquo;s CR. If the skill check is successful, the attack deals 4d8 additional damage and the target is flat-footed against this attack.</p>\n<hr />\n<p><strong>Triple Attack</strong> When making a full attack using only melee weapons with the operative special property or small arms, Iseph can make up to three attacks instead of two.</p>\n<hr />\n<p><strong>Uncanny Agility (Ex)</strong> Iseph is immune to the flat-footed condition, opponents do not gain any bonuses to attack rolls for flanking Iseph or attacking when Iseph is prone, and covering fire and harrying fire to not provide any bonuses against Iseph.&nbsp;</p>\n<hr />\n<p><strong>Uncanny Pilot (Ex) </strong>When Iseph attacks while driving a vehicle, they take only half the vehicle&rsquo;s normal penalty to their attack roll. When in a chase, Iseph gains a +2 bonus to skill checks when attempting the evade or trick pilot actions.</p>\n<hr />\n<p><strong>Uncanny Shooter (Ex)</strong> Iseph doesn&rsquo;t provoke attacks of opportunity when making ranged attacks with small arms.</p>\n<hr />\n<p><strong>Upgrade Slot</strong> Iseph has an internal quick-release sheath normally installed in armor as an upgrade. This can store a single one-handed weapon, which Iseph can draw as a swift action.</p>\n<p>&nbsp;</p>\n<h2>GEAR DESCRIPTIONS</h2>\n<p><strong>Advanced Lashunta Tempweave</strong> While wearing this armor, Iseph can close its environmental seals and survive in a vacuum (and other harsh environments) for up to 8 days. The armor has jump jets as an upgrade, allowing Iseph to fly up to 40 feet as part of a move action. At the end of this flight, Iseph must land or they fall. Iseph can do this 10 times before the jump jets&rsquo; battery must be recharged or replaced.</p>\n<hr />\n<p><strong>Advanced Semi-Auto Pistol</strong> This weapon fires physical bullets and can be fired 12 times before it must be reloaded.</p>\n<hr />\n<p><strong>Advanced Shirren-Eye Rifle</strong> This sniper rifle fires physical projectiles and can be fired four times before it must be reloaded. It can be used to make only a single attack each round. If it is aimed as a move action and then fired as a standard action, it has a 500-foot range increment.</p>\n<hr />\n<p><strong>Ghost Killer Thunderstrike Sonic Pistol</strong> This weapon creates damaging waves of sonic energy and can be fired 10 times before its battery must be recharged or replaced. It has been given the ghost killer infusion, which allows it to damage ethereal and incorporeal targets normally and allows incorporeal creatures to pick it up and use it.</p>\n<hr />\n<p><strong>Medpatch </strong>Iseph can use this to attempt an untrained Medicine check with a +10 bonus to perform the first aid, long-term stability, treat disease, or treat drugs or poison task.&nbsp;</p>\n<hr />\n<p><strong>Mk 2 Serum of Healing</strong> Drinking a vial of this serum restores 3d8 HP.</p>\n<hr />\n<p><strong>Spell Ampule of Lesser Restoration</strong> Iseph can inject this magic liquid into themselves or an unconscious or willing creature as a standard action. The subject is affected by lesser restoration, healing 1d4 temporary ability damage and eliminating the fatigued condition (or lessening the exhausted condition to fatigued).</p>\n<hr />\n<p><strong>Titanium Alloy Cable</strong> This 50-foot-long cable is designed for climbing or securing loose cargo.&nbsp;</p>",
         "public": "",
-        "fullBodyImage": "worlds/sf-iconics/tokens/Iseph_Portrait.png",
+        "fullBodyImage": "modules/fvtt-sf-iconics/images/webp/Iseph-portrait.webp",
         "dateOfBirth": "",
         "age": 0,
         "height": "",
@@ -547,16 +547,18 @@
       "systemVersion": "0.9.0.0"
     }
   },
-  "img": "worlds/sf-iconics/tokens/Iseph.png",
+  "img": "modules/fvtt-sf-iconics/images/webp/Iseph-portrait.webp",
   "token": {
     "flags": {},
     "name": "Iseph L1",
-    "displayName": 0,
-    "img": "worlds/sf-iconics/tokens/Iseph.png",
-    "tint": null,
+    "displayName": 50,
+    "img": "modules/fvtt-sf-iconics/images/webp/Iseph-token.webp",
+    "tint": "",
     "width": 1,
     "height": 1,
     "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
     "lockRotation": false,
     "rotation": 0,
     "vision": false,
@@ -566,17 +568,23 @@
     "brightLight": 0,
     "sightAngle": 360,
     "lightAngle": 360,
+    "lightColor": "",
     "lightAlpha": 1,
     "lightAnimation": {
+      "type": "",
       "speed": 5,
       "intensity": 5
     },
     "actorId": "jrPItmdAKakfneHO",
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 1,
     "displayBars": 0,
-    "bar1": {},
-    "bar2": {},
+    "bar1": {
+      "attribute": ""
+    },
+    "bar2": {
+      "attribute": ""
+    },
     "randomImg": false
   },
   "items": [

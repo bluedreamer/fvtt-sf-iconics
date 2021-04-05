@@ -66,7 +66,7 @@
       "hp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 80,
         "temp": null,
         "tempmax": null,
         "tooltip": []
@@ -143,7 +143,7 @@
       "biography": {
         "value": "<h2>SPECIAL ABILITIES</h2>\n<p><strong>Mobility </strong>Scout gains a +4 bonus to its AC against attacks of opportunity it provokes by leaving a threatened square.</p>\n<hr />\n<p><strong>Shot on the Run</strong> As a full action, Scout can move up to its speed, making one ranged attack at any point during its movement.</p>\n<p>&nbsp;</p>\n<h2>DRONE MODS</h2>\n<p><strong>Camera </strong>As long as Scout is within range of Quig&rsquo;s expert rig (5 miles), Quig can see through Scout&rsquo;s senses (in addition to whatever a typical human can see).</p>\n<hr />\n<p><strong>Enhanced Armor</strong> Scout gains +2 to its AC (this has been added to its EAC and KAC above).</p>\n<hr />\n<p><strong>Enhanced Senses</strong> Scout gains low-light vision and darkvision, which also operate through its camera.</p>\n<hr />\n<p><strong>Flight System Scout</strong> has a flight system included in its chassis. This grants it the flight listed with its speed.</p>\n<hr />\n<p><strong>Hardened AI</strong> Checks to hack Scout take a &ndash;4 penalty.</p>\n<hr />\n<p><strong>Weapon Mount</strong> Scout has a corona laser pistol, which can be fired 20 times before Quig must recharge or replace its battery</p>",
         "public": "",
-        "fullBodyImage": "systems/sfrpg/images/mystery-body.png",
+        "fullBodyImage": "modules/fvtt-sf-iconics/images/webp/Scout-portrait.webp",
         "dateOfBirth": "",
         "age": 0,
         "height": "",
@@ -530,16 +530,18 @@
       "systemVersion": "0.9.0.0"
     }
   },
-  "img": "worlds/sf-iconics/tokens/Scout.png",
+  "img": "modules/fvtt-sf-iconics/images/webp/Scout-portrait.webp",
   "token": {
     "flags": {},
-    "name": "Scout L1",
-    "displayName": 0,
-    "img": "worlds/sf-iconics/tokens/Scout.png",
-    "tint": null,
+    "name": "Scout",
+    "displayName": 50,
+    "img": "modules/fvtt-sf-iconics/images/webp/Scout-token.webp",
+    "tint": "",
     "width": 1,
     "height": 1,
     "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
     "lockRotation": false,
     "rotation": 0,
     "vision": false,
@@ -549,17 +551,23 @@
     "brightLight": 0,
     "sightAngle": 360,
     "lightAngle": 360,
+    "lightColor": "",
     "lightAlpha": 1,
     "lightAnimation": {
+      "type": "",
       "speed": 5,
       "intensity": 5
     },
     "actorId": "B6wIE92BgcY7ZdLY",
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 1,
     "displayBars": 0,
-    "bar1": {},
-    "bar2": {},
+    "bar1": {
+      "attribute": ""
+    },
+    "bar2": {
+      "attribute": ""
+    },
     "randomImg": false
   },
   "items": [

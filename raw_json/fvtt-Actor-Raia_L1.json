@@ -84,7 +84,7 @@
       "hp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 9,
         "temp": null,
         "tempmax": null,
         "tooltip": []
@@ -92,13 +92,13 @@
       "sp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 5,
         "tooltip": []
       },
       "rp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 4,
         "tooltip": []
       },
       "init": {
@@ -148,7 +148,7 @@
       "biography": {
         "value": "<p>A magical scholar from Castrovel, Raia Danviri lives to meet new cultures and learn from them.&nbsp;</p>\n<p>&nbsp;</p>\n<h2>SPECIAL ABILITIES</h2>\n<p>Lashunta Magic Raia can use the following spell-like abilities, each as a standard action.</p>\n<ul>\n<li><em>Daze:</em> This spell causes a humanoid creature of CR 3 or lower to be dazed for 1 round (Will DC 11 negates).</li>\n<li><em>Detect Thoughts: </em>Raia can detect the surface thoughts of intelligent creatures within a 60-foot cone, and if she concentrates, she can attempt to read those thoughts (Will DC 12 negates).</li>\n<li><em>Psychokinetic Hand</em>: Once this spell is cast, as long as Raia concentrates (a standard action each round), she can take a move action to move an object within 25 feet that weighs 10 pounds or less up to 15 feet. She can&rsquo;t perform fine manipulation (such as firing a weapon or using a computer), but she can push a single button or close a container&rsquo;s lid.</li>\n</ul>\n<hr />\n<p><strong>Limited Telepathy (Su) </strong>Raia can communicate telepathically with creatures within 30 feet that share a language with her.</p>\n<hr />\n<p><strong>Spell Cache (Su) </strong>Raia has an arm implant that functions as her spell cache. Once per day, she can cast one of her spells known even if she has expended all her spell slots of that spell level.</p>\n<hr />\n<p><strong>Spells</strong> Raia can cast these spells, each as a standard action.</p>\n<ul>\n<li><em>Dancing Lights</em>: Raia can create up to four flashlight-sized lights in a 10-foot-radius area.</li>\n<li><em>Detect Magic</em>: This spell reveals whether creatures or objects seen within a 60-foot cone are magical, and with concentration, can determine whether one magical source is a spell, magic item, or other effect, and its caster level.</li>\n<li><em>Energy Ray</em>: Raia can fire a ray of energy (choose acid, cold, electricity, or fire) as a ranged attack (+2 bonus) that targets EAC and deals 1d3 damage of the chosen energy type.</li>\n<li><em>Grease</em>: Raia can coat a 10-foot square or one object with slippery grease, causing creatures in the area to fall prone or drop the object (Reflex DC 14 partial).</li>\n<li><em>Magic Missile</em>: Raia can fire two missiles of magical energy that automatically hit and deal 1d4+1 force damage each. If she casts this spell as a full action, Raia fires three missiles.&nbsp;</li>\n<li><em>Mending</em>: This spell restores 1d4 Hit Points to one object or construct of up to 1 bulk.</li>\n</ul>\n<p>&nbsp;</p>\n<h2>GEAR DESCRIPTIONS</h2>\n<p><strong>Azimuth Laser Pistol</strong> This weapon can be fired 20 times before its battery needs to be recharged or replaced.</p>\n<hr />\n<p><strong>Engineering Tool Kit</strong> These specialized tools allow Raia to attempt Engineering checks without penalty.</p>\n<hr />\n<p><strong>Mk 1 Serum of Healing</strong> Drinking this serum restores 1d8 HP.</p>\n<hr />\n<p><strong>Second Skin </strong>While wearing this armor, Raia can close its environmental seals and survive in a vacuum (or other harsh environment) for up to 24 hours.</p>",
         "public": "",
-        "fullBodyImage": "worlds/sf-iconics/tokens/Raia_Portrait.png",
+        "fullBodyImage": "modules/fvtt-sf-iconics/images/webp/Raia-portrait.webp",
         "dateOfBirth": "",
         "age": 0,
         "height": "",
@@ -549,16 +549,18 @@
       "systemVersion": "0.9.0.0"
     }
   },
-  "img": "worlds/sf-iconics/tokens/Raia.png",
+  "img": "modules/fvtt-sf-iconics/images/webp/Raia-portrait.webp",
   "token": {
     "flags": {},
-    "name": "Raia L1",
-    "displayName": 0,
-    "img": "worlds/sf-iconics/tokens/Raia.png",
-    "tint": null,
+    "name": "Raia",
+    "displayName": 50,
+    "img": "modules/fvtt-sf-iconics/images/webp/Raia-token.webp",
+    "tint": "",
     "width": 1,
     "height": 1,
     "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
     "lockRotation": false,
     "rotation": 0,
     "vision": false,
@@ -568,17 +570,23 @@
     "brightLight": 0,
     "sightAngle": 360,
     "lightAngle": 360,
+    "lightColor": "",
     "lightAlpha": 1,
     "lightAnimation": {
+      "type": "",
       "speed": 5,
       "intensity": 5
     },
     "actorId": "5AKJOe7X3I1dJyzm",
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 1,
     "displayBars": 0,
-    "bar1": {},
-    "bar2": {},
+    "bar1": {
+      "attribute": ""
+    },
+    "bar2": {
+      "attribute": ""
+    },
     "randomImg": false
   },
   "items": [

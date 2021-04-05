@@ -84,7 +84,7 @@
       "hp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 52,
         "temp": null,
         "tempmax": null,
         "tooltip": []
@@ -92,13 +92,13 @@
       "sp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 48,
         "tooltip": []
       },
       "rp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 7,
         "tooltip": []
       },
       "init": {
@@ -148,7 +148,7 @@
       "biography": {
         "value": "<p>Born into a wealthy family on Absalom Station, the envoy who calls herself Navasi eschewed glitzy playdates and family soirees in favor of zipping through Absalom Station&rsquo;s streets with her best friends, the children of the household employees. As she befriended more stationers of less privilege, Navasi&rsquo;s irritation with her plutocratic parents turned to disgust. She began to dream of a fairy-tale life in which she could steal the affluent&rsquo;s unearned wealth and give it to those in need.</p>\n<p>On her eighteenth birthday, she stowed away on a ship bound for the Diaspora. Navasi arrived on Broken Rock and quickly signed up as a &ldquo;procurement specialist&rdquo; with a contracting firm called the Sixth Finger&mdash;little more than a starfaring thieves&rsquo; guild&mdash;ready to use her new position to steal from exploitative corporations and be a hero to those in need. The reality of life in a pirate enclave hit her like a meteorite. Out of money, too stubborn to return home, Navasi found she no longer had a choice in which jobs she took. Under the guildrunners&rsquo; threats, she roughed up innocents, stole from the poor, and worse. Though she never lost her egalitarian beliefs, she hardly recognized the naive idealist she&rsquo;d once been. She quickly gained a reputation as the best fast-talker around.</p>\n<p>Navasi found that the wealth from her scores brought little joy without friends to share it with, and she recruited secretly softhearted rogues to her crews. Yet it was in one particular woman that Navasi truly found herself again. Purple-haired and tattooed, the newcomer bucked the pirates&rsquo; authority and operated alone, pulling the sorts of righteous jobs Navasi had dreamed of. She was the most exciting woman Navasi had ever met, and the two became inseparable.</p>\n<p>That all came crashing down the day the Sixth Finger arranged to knock over a medship full of supplies bound for Absalom Station. To the gang&rsquo;s leaders, the ship&rsquo;s mission&mdash;aiding refugees of a war-torn star system&mdash;was inconsequential. Navasi&rsquo;s objections were overruled.</p>\n<p>It was the final straw. Together, Navasi and her partner formulated a plan, alerting the medship to the heist and sabotaging the gang&rsquo;s starfighters. It did not go unnoticed. In the ensuing ambush, Navasi and her partner were pinned down, their backs to the sole spaceworthy ship&mdash;a single-seat fighter with only enough life support for one of them. Navasi prepared to go out in a blaze of glory&mdash;only to have her partner shove her into the cockpit and slam the canopy. As Navasi scrabbled with the latch, the other woman pulled the pins on her grenades and sprinted straight at their ambushers.</p>\n<p>The wealthy scion of Absalom Station died that day, as did the pirate she&rsquo;d become. As she made her way back to Absalom Station, knowing that neither the Sixth Finger nor her spurned family would ever stop looking for her, she forsook her previous incarnations. Abandoning her old identity, she took the name of her fallen love&mdash;Navasi&mdash;and swore that she&rsquo;d carry on the fight they&rsquo;d started together, stealing only from those who deserved it. Knowing she&rsquo;d need a new appearance as well, she borrowed from her partner, dyeing her jet-black hair purple and adding a single blue contact lens.</p>\n<p>Today, Navasi is a talented freelance captain, putting together crews for planetary scouting, private security, and more. Navasi still believes in freedom for all, spreading the wealth, and taking plutocrats down a peg&mdash;but she also knows the value of earning credits, and takes pride in the ability to take care of herself and her crew. As a scoundrel, a fast-talker, and a brilliant negotiator, Navasi is happiest when the chips are down and lives hang in the balance.</p>\n<p>&nbsp;</p>\n<h2>SPECIAL ABILITIES</h2>\n<hr />\n<p><strong>Convincing Liar (Ex)</strong>&nbsp;When Navasi attempts a Bluff check, she can choose to not add her expertise die until after she sees the result of her d20. Once she sees the result of her d20, she can either roll and add her expertise die normally or reroll the d20 and take the better of the two d20 results (but not add her expertise die).</p>\n<hr />\n<p><strong>Cultural Savant (Ex)</strong>&nbsp;As long as time permits, Navasi can take 20 on Culture checks to recall knowledge even if she doesn&rsquo;t have access to a means of research.</p>\n<hr />\n<p><strong>Darkvision&nbsp;</strong>Navasi can see up to 60 feet in total darkness.</p>\n<hr />\n<p><strong>Diversion&nbsp;</strong>When Navasi successfully uses Bluff to create a distraction, she can allow an ally to attempt a Stealth check to hide (instead of attempting to hide herself). She can attempt to allow multiple allies to use Stealth to hide, but she takes a &ndash;5 penalty to her Bluff check for every ally after the first, and on a failed check, no ally can attempt to hide.</p>\n<hr />\n<p><strong>Expertise (Ex)</strong>&nbsp;If Navasi has at least 1 Resolve Point remaining when she attempts a Bluff or Sense Motive check, she can roll 1d6 and add it to the result as an insight bonus.</p>\n<hr />\n<p><strong>Fast Talk</strong>&nbsp;If Navasi is conversing with a creature prior to the beginning of combat, and she is aware of the beginning of combat and does not begin the combat herself, she can spend 1 Resolve Point to attempt a Bluff check (DC = either 15 + target&rsquo;s Perception skill bonus or 20 + 1-1/2 &times; the target&rsquo;s CR, whichever is higher). On a success, the creature is considered unaware at the beginning of the combat (allowing Navasi and other aware creatures to act in a surprise round before the first full round of combat).</p>\n<hr />\n<p><strong>Heads Up (Ex)</strong>&nbsp;When Navasi succeeds at a Perception check, she can signal an ally within 60 feet as a reaction so that ally can act as if he also succeeded at the Perception check.</p>\n<hr />\n<p><strong>Improved Get &rsquo;Em (Ex)</strong>&nbsp;As a standard action, Navasi can make an attack against a foe, or as a move action she can select one foe within 60 feet. She must be able to see or hear the foe, and the foe must be able to see or hear her. Navasi and her allies gain a +2 morale bonus to attack rolls against that foe until the end of her next turn. She can spend 1 Resolve Point to instead add this bonus to attacks against all foes within 60 feet.</p>\n<hr />\n<p><strong>Improved Feint&nbsp;</strong>As a move action, Navasi can attempt a Bluff check against a single opponent (DC = either 10 + her opponent&rsquo;s total Sense Motive skill bonus or 15 + 1-1/2 &times; the opponent&rsquo;s CR, whichever is greater) to cause that opponent to be flat-footed for the next attack she makes against it before the end of her next turn.</p>\n<hr />\n<p><strong>Inspiring Boost (Ex)</strong> As a standard action, Navasi can signal an ally who has taken damage since Navasi&rsquo;s last turn. The ally must be able to see and hear her and be within 30 feet. The ally gains 19 Stamina Points, up to the ally&rsquo;s normal maximum. She cannot target that ally with this ability again until the ally takes a 10-minute rest to regain Stamina Points.</p>\n<hr />\n<p><strong>Legal Corruption</strong>&nbsp;Navasi needs to pay only 2 Fame when using the Basic Purchasing Plan boon to reduce her Infamy score (down from 4).</p>\n<hr />\n<p><strong>Unfriendly Fire</strong>&nbsp;When a foe misses Navasi with a ranged attack and she is adjacent to a different target, she can attempt a Bluff check (DC = either 10 + her attacker&rsquo;s total Sense Motive skill bonus or 15 + 1-1/2 &times; the attacker&rsquo;s CR, whichever is greater) as a reaction to force the attacker to reroll the attack against the adjacent target. This feat can&rsquo;t be used on any creature that has seen her use it previously.</p>\n<hr />\n<p><strong>Watch Out (Ex)</strong>&nbsp;When a foe makes a ranged attack against an ally within 60 feet of Navasi, she can warn the ally as a reaction. The ally can use a reaction to gain a +4 bonus to AC against that single attack and then falls prone.</p>\n<p>&nbsp;</p>\n<h2>GEAR DESCRIPTIONS</h2>\n<p><strong>Anarchic Frostbite-Class Zero Pistol</strong>&nbsp;This chaos-aligned magic weapon can be fired 20 times before its battery needs to be recharged or replaced. It bypasses the energy resistance of lawful outsiders and dragons.</p>\n<hr />\n<p><strong>Basic Medkit</strong>&nbsp;This basic medkit allows Navasi to attempt DC 25 Medicine checks to treat deadly wounds.</p>\n<hr />\n<p><strong>Buzzblade Dueling Sword</strong>&nbsp;Navasi can activate this sword 20 times (for up to 1 minute at a time) before its battery must be recharged or replaced.</p>\n<hr />\n<p><strong>Computer, Tier 2</strong>&nbsp;This computer has the artificial personality, miniaturization to L bulk, and self-charging upgrades. It can receive commands and give information verbally. The computer&rsquo;s artificial personality is advanced enough to attempt Bluff, Diplomacy, Intimidate, and Sense Motive checks with a +4 bonus.</p>\n<hr />\n<p><strong>D-Suit II</strong>&nbsp;While wearing this armor, Navasi can close its environmental seals and survive in a vacuum for up to 7 days. Its infrared sensors upgrade gives Navasi darkvision with a range of 60 feet. Its jump jets allow Navasi to fly up to 30 feet (or 20 feet straight up) as a move action. Navasi can do this 10 times before the jump jets&rsquo; battery must be recharged or replaced.</p>\n<hr />\n<p><strong>Flashlight&nbsp;</strong>Navasi&rsquo;s flashlight increases the light level by one step in a 20-foot cone. It can be used for 10 hours before its battery needs to be recharged or replaced.</p>\n<hr />\n<p><strong>Medpatch&nbsp;</strong>Navasi can use this to attempt an untrained Medicine check with a +10 bonus to perform the first aid, long-term stability, treat disease, or treat poison task.</p>\n<hr />\n<p><strong>Mk 1 Serum of Healing</strong>&nbsp;Drinking this serum restores 1d8 HP.</p>\n<hr />\n<p><strong>Mk 1 Synaptic Accelerators</strong>&nbsp;These implants give Navasi an additional +2 to her Dexterity score (already included in her statistics above).</p>\n<hr />\n<p><strong>Red Star Plasma Pistol</strong>&nbsp;This weapon attacks all targets in a 20-foot line. Make a single attack roll, and compare it to the EAC of each target. Roll damage only once; each target takes that amount. It can be fired five times before its battery needs to be recharged or replaced.</p>\n<hr />\n<p><strong>Smoke Grenade</strong>&nbsp;This creates a 20-foot radius of smoke that lasts 1 minute.</p>\n<hr />\n<p><strong>Stickybomb Grenade I&nbsp;</strong>Any creature hit by this grenade that fails a DC 14 Reflex save gains the entangled condition until it escapes as a move action with a successful DC 15 Acrobatics or DC 20 Strength check or until 2d4 rounds pass.</p>",
         "public": "",
-        "fullBodyImage": "worlds/sf-iconics/tokens/Navasi_Portrait.png",
+        "fullBodyImage": "modules/fvtt-sf-iconics/images/webp/Navasi-portrait.webp",
         "dateOfBirth": "",
         "age": 0,
         "height": "",
@@ -558,16 +558,18 @@
       "systemVersion": "0.9.0.0"
     }
   },
-  "img": "worlds/sf-iconics/tokens/Navasi.png",
+  "img": "modules/fvtt-sf-iconics/images/webp/Navasi-portrait.webp",
   "token": {
     "flags": {},
-    "name": "Navasi L1",
-    "displayName": 0,
-    "img": "worlds/sf-iconics/tokens/Navasi.png",
-    "tint": null,
+    "name": "Navasi",
+    "displayName": 50,
+    "img": "modules/fvtt-sf-iconics/images/webp/Navasi-token.webp",
+    "tint": "",
     "width": 1,
     "height": 1,
     "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
     "lockRotation": false,
     "rotation": 0,
     "vision": false,
@@ -577,17 +579,23 @@
     "brightLight": 0,
     "sightAngle": 360,
     "lightAngle": 360,
+    "lightColor": "",
     "lightAlpha": 1,
     "lightAnimation": {
+      "type": "",
       "speed": 5,
       "intensity": 5
     },
     "actorId": "l9t32Qn8SIbJoPwb",
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 1,
     "displayBars": 0,
-    "bar1": {},
-    "bar2": {},
+    "bar1": {
+      "attribute": ""
+    },
+    "bar2": {
+      "attribute": ""
+    },
     "randomImg": false
   },
   "items": [

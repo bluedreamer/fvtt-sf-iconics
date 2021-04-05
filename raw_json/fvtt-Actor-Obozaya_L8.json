@@ -84,7 +84,7 @@
       "hp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 62,
         "temp": null,
         "tempmax": null,
         "tooltip": []
@@ -92,13 +92,13 @@
       "sp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 72,
         "tooltip": []
       },
       "rp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 8,
         "tooltip": []
       },
       "init": {
@@ -148,7 +148,7 @@
       "biography": {
         "value": "<p>In classic vesk fashion, Obozaya Ymeros lets her friends shorten her name to &ldquo;Obo,&rdquo; but not even Damoritosh himself can protect those who use her nickname without earning that right first.</p>\n<p>Obozaya was born on Vesk Prime, planetary capital of the Veskarium, to a family of low-level military bureaucrats. Distinguishing herself with her determination and ferocity on the sports field and in the dueling ring&mdash;if not in her academic studies&mdash;Obozaya established herself as a top-notch military cadet, enlisting as soon as her basic studies were complete.</p>\n<p>Obozaya took to military life, and soon outpaced many in her cohort. In Veskarium society, social status is most easily earned through excellence in combat, and Obo had no desire to spend her entire life at the same rank as her parents. Her dreams of glory were hardly unique, but she quickly proved herself in several battles.&nbsp;</p>\n<p>Yet in her youthful arrogance, Obozaya overlooked the power of political connections. After dueling and deeply shaming another member of her unit one with family ties to high-ranking military officials&mdash;she found herself assigned to patrol a section of frozen tundra on Vesk-8, where the pacifist residents refused to give her any opportunity for righteous combat. It soon became clear that neither appeals to her superiors nor prayers to Damoritosh the Conqueror were going to get her a better assignment. Thus, as her first term of enlistment drew to a close, she left the military.</p>\n<p>From there, Obozaya followed in the footsteps of many other legendary vesk warriors and left home to work as a mercenary in the Pact Worlds. Here, at last, she found what she&rsquo;d been searching for: an endless series of battles, with no restrictions but her own sense of honor. Rather than signing on with an established mercenary company, Obozaya worked primarily with small groups of explorers and adventurers. Small teams mean more glory per person, and she often finds herself the sole front-line fighter on a crew, which appeals to her vanity. As Obozaya&rsquo;s fond of saying, battle is too important to leave to amateurs, and she believes that the best way to win a fight is to move fast and hit hard. Though she has drifted away from Damoritosh&rsquo;s faith, she still adores using his sacred doshko for close-up fighting.</p>\n<p>Obozaya is a study in contrasts. While she appreciates material wealth and creature comforts, her true desire is for recognition. This is perhaps best exemplified by the holoprojector on her back, which usually projects a modified version of Damoritosh&rsquo;s symbol to advertise her as a warrior for hire, but which is capable of projecting a personalized holographic war-banner in combat to make sure the enemy knows exactly who&rsquo;s coming for them. Brilliant on the battlefield, Obozaya nevertheless finds herself a little slow on the draw in most intellectual pursuits, having little patience for any education not directly related to her vocation. She believes that honor demands honesty, and while she&rsquo;s not against lying by omission, she would rather die than break her word or renege on a contract. In conversations with new people, she&rsquo;s either unnervingly stoic or direct to the point of rudeness, and thinks that most species talk more than they need to as an attempt to cover up their cowardice.</p>\n<p>All of which makes it that much more surprising to discover how much her companions adore her. Sure, Obo may explain her loyalty as a mercenary&rsquo;s pragmatism, yet everyone in her crew knows they can count on &ldquo;the big lizard&rdquo; to pull them out of a scrape, no matter the cost. As with many vesk, her gruff manner is punctuated with sudden outpourings of emotion, and with her characteristic directness, Obo finds no fear or shame in telling her friends how much she loves them. Much of her life is spent on or training for missions, yet when she sets out to celebrate a success, it&rsquo;s with her trademark bombastic zeal. Eschewing the berserker drugs favored by some of her kindred, she&rsquo;s instead fond of the Veskarium nose-hookahs sometimes called &ldquo;dragon&rsquo;s breath,&rdquo; as well as the mildly hallucinogenic brain snails of Vesk-2 and other traditional vesk snacks. More than one bar has been sacrificed to (and well compensated for) her parties, and the heavy bass of her beloved revelaz dance-pop beats is notorious for bursting rivets on ship bulkheads.</p>\n<p>&nbsp;</p>\n<h2>SPECIAL ABILITIES</h2>\n<p><strong>Armored Advantage </strong>Obozaya gains a +1 insight bonus to her KAC when wearing armor. This bonus has already been added to her Armor Class above.</p>\n<hr />\n<p><strong>Charge Attack (Ex)</strong> Obozaya can charge as a standard action without taking the normal penalties for charging, and can substitute a bull rush for the attack at the end of her charge.</p>\n<hr />\n<p><strong>Cleave </strong>Obozaya can take a &ndash;2 penalty to her AC until her next turn in order to use the Cleave feat. This allows her to make a melee attack against a foe adjacent to her as a standard action. If she hits, she can make a second melee attack against a different foe adjacent to both her and the first foe.</p>\n<hr />\n<p><strong>Coordinated Shot </strong>When Obozaya is threatening a foe with a melee weapon, any ally with line of sight to that foe without Obozaya granting the foe cover gains a +1 bonus to ranged attack rolls against the foe.</p>\n<hr />\n<p><strong>Deadly Aim </strong>When Obozaya takes the attack or full attack action with a weapon, she can take a &ndash;2 penalty to her attack rolls to add 2 to her damage.</p>\n<hr />\n<p><strong>Grunt </strong>Treat Obozaya&rsquo;s Strength score as 1 higher for the purpose of determining her bulk limit.</p>\n<hr />\n<p><strong>Low-Light Vision </strong>Obozaya can see in dim light as if it were normal light.</p>\n<hr />\n<p><strong>Melee Striker </strong>Obozaya adds an additional bonus to her melee damage equal to half her Strength bonus. This is already added in to her attacks above.</p>\n<hr />\n<p><strong>Mobility </strong>Obozaya gains a +4 bonus to her AC against attacks of opportunity she provokes by moving out of a threatened square.</p>\n<hr />\n<p><strong>Natural Weapons </strong>Obozaya&rsquo;s unarmed attacks deal lethal damage and aren&rsquo;t considered archaic, and she adds 1-1/2 &times; her character level to the damage (rather than just adding her level with Weapon Specialization).</p>\n<hr />\n<p><strong>Quick Draw </strong>Obozaya can draw a weapon as a swift action.Step Up and Strike When a foe adjacent to Obozaya attempts to take a guarded step, as a reaction Obozaya can move up to 10 feet (as long as she ends adjacent to the creature taking the guarded step), and can make an attack of opportunity against that foe.</p>\n<hr />\n<p><strong>Weapon Specialization </strong>Obozaya adds her character level to the damage she deals with most melee weapons, longarms, heavy weapons, sniper weapons, and grenades, and half her character level to the damage she deals with operative melee weapons and small arms. This is already added in to her attacks above.</p>\n<p>&nbsp;</p>\n<h2>GEAR DESCRIPTIONS</h2>\n<p><strong>Autotarget Rifle </strong>This two-handed rifle fires physical bullets and can be fired 10 times before it must be reloaded. As a full action, Obozaya can attack with it in automatic mode, using all its remaining ammunition and attacking multiple targets in a 30-foot cone. Beginning with the nearest target, Obozaya makes one attack roll against each target in the cone. This expends 2 rounds of ammunition per target attacked, and when the rifle runs out of ammunition, it can&rsquo;t target any more creatures. Obozaya rolls damage only once, applying it to all targets hit.</p>\n<hr />\n<p><strong>Blaze Flame Doshko </strong>This two-handed weapon has a battery with 20 charges and uses 1 charge per minute it&rsquo;s active.</p>\n<hr />\n<p><strong>Medpatch </strong>Obozaya can use this to attempt an untrained Medicine check with a +10 bonus to perform the first aid, long-term stability, treat disease, or treat drugs or poison task.&nbsp;</p>\n<hr />\n<p><strong>Mk 1 Serum of Healing </strong>Drinking a vial of this serum restores 1d8 HP.</p>\n<hr />\n<p><strong>Snub Scattergun </strong>This two-handed ranged weapon can be fired eight times before it must be reloaded. It targets all creatures in a 15-foot cone. Obozaya makes an attack roll against each creature in this area, then rolls damage only once and applies it to all creatures she hits.&nbsp;</p>\n<p>&nbsp;</p>\n<hr />\n<p><strong>Targeting Computer </strong>The targeting computer in Obozaya&rsquo;s armor allows her to ignore the concealment (other than total concealment) of any target.&nbsp;</p>\n<hr />\n<p><strong>Vesk Overplate II </strong>While wearing this armor, Obozaya can close its environmental seals and survive in a vacuum (or other harsh environment) for up to 8 days.</p>",
         "public": "",
-        "fullBodyImage": "worlds/sf-iconics/tokens/Obozaya_Portrait.png",
+        "fullBodyImage": "modules/fvtt-sf-iconics/images/webp/Obozaya-portrait.webp",
         "dateOfBirth": "",
         "age": 0,
         "height": "",
@@ -550,16 +550,18 @@
       "systemVersion": "0.9.0.0"
     }
   },
-  "img": "worlds/sf-iconics/tokens/Obozaya.png",
+  "img": "modules/fvtt-sf-iconics/images/webp/Obozaya-portrait.webp",
   "token": {
     "flags": {},
-    "name": "Obozaya L1",
-    "displayName": 0,
-    "img": "worlds/sf-iconics/tokens/Obozaya.png",
-    "tint": null,
+    "name": "Obozaya",
+    "displayName": 50,
+    "img": "modules/fvtt-sf-iconics/images/webp/Obozaya-token.webp",
+    "tint": "",
     "width": 1,
     "height": 1,
     "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
     "lockRotation": false,
     "rotation": 0,
     "vision": false,
@@ -569,17 +571,23 @@
     "brightLight": 0,
     "sightAngle": 360,
     "lightAngle": 360,
+    "lightColor": "",
     "lightAlpha": 1,
     "lightAnimation": {
+      "type": "",
       "speed": 5,
       "intensity": 5
     },
     "actorId": "GOPPFSDtpGiNwZSk",
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 1,
     "displayBars": 0,
-    "bar1": {},
-    "bar2": {},
+    "bar1": {
+      "attribute": ""
+    },
+    "bar2": {
+      "attribute": ""
+    },
     "randomImg": false
   },
   "items": [

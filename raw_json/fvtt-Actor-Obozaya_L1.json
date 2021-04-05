@@ -84,7 +84,7 @@
       "hp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 13,
         "temp": null,
         "tempmax": null,
         "tooltip": []
@@ -92,13 +92,13 @@
       "sp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 8,
         "tooltip": []
       },
       "rp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 4,
         "tooltip": []
       },
       "init": {
@@ -148,7 +148,7 @@
       "biography": {
         "value": "<p>Obozaya was born on Vesk Prime to a family of low-level military bureaucrats. She quickly established herself as a top-notch military cadet, enlisting as soon as her basic studies were complete. In Veskarium society, social status is most easily earned through excellence in combat, and Obo soon proved herself in several battles.&nbsp;</p>\n<p>Yet in her youthful arrogance, Obozaya overlooked the power of political connections. After dueling and deeply shaming another member of her unit&mdash;one with family ties to high-ranking military officials&mdash;she found herself assigned to patrol a section of frozen tundra on Vesk-8, where the pacifist residents refused to give her any opportunity for combat. When it became clear that appeals to her superiors weren&rsquo;t going to get her a better assignment, a frustrated Obozaya waited for her term to end, then left to work as a mercenary in the Pact Worlds. Here, at last, she found what she&rsquo;d been searching for: an endless series of battles and adventures. Rather than signing on with a mercenary company, Obozaya found herself better suited to working with small groups of adventurers. Small teams mean more glory per person, and she often finds herself the sole front-line fighter on a crew, which appeals to her vanity and showboating style. As Obozaya&rsquo;s fond of saying, battle is too important to leave to amateurs, and she believes that the best way to win a fight is to move fast and hit hard.</p>\n<p>While Obozaya appreciates wealth, her true desire is for recognition. This is best exemplified by the holoprojector on her back, capable of projecting a personalized holographic war-banner in combat to make sure the enemy knows who&rsquo;s coming for them. Although brilliant on the battlefield, Obozaya is a little slow on the draw in most intellectual pursuits, having little patience for education not directly related to her vocation. She believes that honor demands honesty, and while she&rsquo;s not against lying by omission, she would rather die than break her word. In conversations with new people, she&rsquo;s direct to the point of rudeness, and she thinks most species talk too much as an attempt to cover up their cowardice.</p>\n<p>&nbsp;</p>\n<h2>SPECIAL ABILITIES</h2>\n<p><strong>Low-Light Vision</strong> Obozaya can see in dim light as if it were normal light.</p>\n<hr />\n<p><strong>Mobility </strong>Obozaya gains a +4 bonus to her AC against&nbsp;attacks of opportunity she provokes by moving out of a threatened square.</p>\n<hr />\n<p><strong>Natural Weapons</strong> Obozaya&rsquo;s unarmed attacks deal lethal damage and aren&rsquo;t considered archaic.&nbsp;</p>\n<p>&nbsp;</p>\n<h2>GEAR DESCRIPTIONS</h2>\n<p><strong>Light Reaction Cannon</strong> This two-handed ranged weapon can be fired six times before it must be reloaded. When damaging objects, it ignores 1 point of hardness.</p>\n<hr />\n<p><strong>Mk 1 Serum of Healing</strong> Drinking this serum restores 1d8 HP.</p>\n<hr />\n<p><strong>Tactical Doshko</strong> This two-handed weapon can be used to make only a single attack each round due to its unwieldy special quality.</p>\n<hr />\n<p><strong>Troop Ceremonial Plate</strong> While wearing this armor, Obozaya can close its environmental seals and survive in a vacuum (or other harsh environment) for up to 24 hours.</p>",
         "public": "",
-        "fullBodyImage": "worlds/sf-iconics/tokens/Obozaya_Portrait.png",
+        "fullBodyImage": "modules/fvtt-sf-iconics/images/webp/Obozaya-portrait.webp",
         "dateOfBirth": "",
         "age": 0,
         "height": "",
@@ -550,16 +550,18 @@
       "systemVersion": "0.9.0.0"
     }
   },
-  "img": "worlds/sf-iconics/tokens/Obozaya.png",
+  "img": "modules/fvtt-sf-iconics/images/webp/Obozaya-portrait.webp",
   "token": {
     "flags": {},
-    "name": "Obozaya L1",
-    "displayName": 0,
-    "img": "worlds/sf-iconics/tokens/Obozaya.png",
-    "tint": null,
+    "name": "Obozaya",
+    "displayName": 50,
+    "img": "modules/fvtt-sf-iconics/images/webp/Obozaya-token.webp",
+    "tint": "",
     "width": 1,
     "height": 1,
     "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
     "lockRotation": false,
     "rotation": 0,
     "vision": false,
@@ -569,17 +571,23 @@
     "brightLight": 0,
     "sightAngle": 360,
     "lightAngle": 360,
+    "lightColor": "",
     "lightAlpha": 1,
     "lightAnimation": {
+      "type": "",
       "speed": 5,
       "intensity": 5
     },
     "actorId": "ZmLez6cIXBnNxBfV",
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 1,
     "displayBars": 0,
-    "bar1": {},
-    "bar2": {},
+    "bar1": {
+      "attribute": ""
+    },
+    "bar2": {
+      "attribute": ""
+    },
     "randomImg": false
   },
   "items": [

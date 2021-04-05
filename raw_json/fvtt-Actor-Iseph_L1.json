@@ -84,7 +84,7 @@
       "hp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 10,
         "temp": null,
         "tempmax": null,
         "tooltip": []
@@ -92,13 +92,13 @@
       "sp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 6,
         "tooltip": []
       },
       "rp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 5,
         "tooltip": []
       },
       "init": {
@@ -148,7 +148,7 @@
       "biography": {
         "value": "<p>Iseph awoke in a renewal cr&egrave;che in a storage facility on Aballon, the building empty save for a note and a pen left on the floor. Clearly hastily scrawled, the note read only: Run. Hide. Retaliate. Beware the mark. Next to the words was a drawing of a symbol&mdash;the same inexplicable design branded on Iseph&rsquo;s chest. Yet the biggest shock was when Iseph picked up the pen, as the note&rsquo;s writer had clearly intended&mdash; for the handwriting on the note matched Iseph&rsquo;s own.</p>\n<p>Disoriented, Iseph did their best to disappear into Aballon&rsquo;s bustling android population. Eventually, Iseph worked up the courage to begin making surreptitious inquiries about the mysterious symbol and their own past. All of these searches failed, yet Iseph began to get the sense of being watched. When a contact claiming to have information was slain in a massive bombing clearly meant for Iseph, Iseph fled to the Diaspora. There they joined up with the Android Abolitionist Front, becoming a black ops specialist until a disagreement with their handler led them to go independent. Today, Iseph officially hires on with freelancer crews as an elite pilot specializing in dangerous transport or exploratory missions. If those jobs sometimes require a little infiltration or a bullet from the shadows&mdash;well, that costs extra.&nbsp;</p>\n<p>&nbsp;</p>\n<h2>SPECIAL ABILITIES</h2>\n<p><strong>Constructed</strong> For effects targeting creatures by type, Iseph counts as both a construct and a humanoid (whichever is worse for Iseph).</p>\n<hr />\n<p><strong>Darkvision</strong> Iseph can see up to 60 feet in total darkness.</p>\n<hr />\n<p><strong>Flat Affect</strong> The DC of a Sense Motive check attempted against Iseph increases by 2.</p>\n<hr />\n<p><strong>Low-Light Vision</strong> Iseph can see in dim light as if it were normal light.</p>\n<hr />\n<p><strong>Trick Attack</strong> As a full action, Iseph can move up to 30 feet and make a single attack with a small arm (or a melee weapon with the operative special property) as a trick attack. Just before making the attack, Iseph attempts a Bluff, Intimidate, or Stealth check (whichever is better for Iseph) with a DC equal to 20 + the target&rsquo;s CR. If the skill check is successful, the attack deals 1d4 additional damage and the target is flat-footed against this attack.</p>\n<hr />\n<p><strong>Upgrade Slot</strong> Iseph has an internal quick-release sheath normally installed in armor as an upgrade. This can store a single one-handed weapon, which Iseph can draw as a swift action.</p>\n<p>&nbsp;</p>\n<h2>GEAR DESCRIPTIONS</h2>\n<p><strong>Flight Suit Stationwear</strong> While wearing this armor, Iseph can close its environmental seals and survive in a vacuum (or other harsh environment) for up to 24 hours.</p>\n<hr />\n<p><strong>Medpatch </strong>Iseph can use this to attempt an untrained Medicine check with a +10 bonus to perform the first aid, long-term stability, treat disease, or treat drugs or poison task.&nbsp;</p>\n<hr />\n<p><strong>Mk 1 Serum of Healing</strong> Drinking a vial of this serum restores 1d8 HP.</p>\n<hr />\n<p><strong>Tactical Semi-Auto Pistol</strong> This weapon can be fired nine times before it must be reloaded.</p>",
         "public": "",
-        "fullBodyImage": "worlds/sf-iconics/tokens/Iseph_Portrait.png",
+        "fullBodyImage": "modules/fvtt-sf-iconics/images/webp/Iseph-portrait.webp",
         "dateOfBirth": "",
         "age": 0,
         "height": "",
@@ -546,16 +546,18 @@
       "systemVersion": "0.9.0.0"
     }
   },
-  "img": "worlds/sf-iconics/tokens/Iseph.png",
+  "img": "modules/fvtt-sf-iconics/images/webp/Iseph-portrait.webp",
   "token": {
     "flags": {},
-    "name": "Iseph L1",
-    "displayName": 0,
-    "img": "worlds/sf-iconics/tokens/Iseph.png",
-    "tint": null,
+    "name": "Iseph",
+    "displayName": 50,
+    "img": "modules/fvtt-sf-iconics/images/webp/Iseph-token.webp",
+    "tint": "",
     "width": 1,
     "height": 1,
     "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
     "lockRotation": false,
     "rotation": 0,
     "vision": false,
@@ -565,17 +567,23 @@
     "brightLight": 0,
     "sightAngle": 360,
     "lightAngle": 360,
+    "lightColor": "",
     "lightAlpha": 1,
     "lightAnimation": {
+      "type": "",
       "speed": 5,
       "intensity": 5
     },
     "actorId": "FkEYZHCFVxYeCRrx",
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 1,
     "displayBars": 0,
-    "bar1": {},
-    "bar2": {},
+    "bar1": {
+      "attribute": ""
+    },
+    "bar2": {
+      "attribute": ""
+    },
     "randomImg": false
   },
   "items": [

@@ -2,6 +2,9 @@
 ## Starfinder Iconics for Foundry VTT
 Each character is provided at levels 1, 4, and 8.
 
+### Install URL
+* https://github.com/bluedreamer/fvtt-sf-iconics/releases/download/latest/module.json
+
 ### Starfinder Roleplaying Game: Core Rulebook
 * Navasi (CG Female Human Envoy) 
 * Quig (CN Male Ysoki Mechanic)
@@ -15,6 +18,7 @@ Each character is provided at levels 1, 4, and 8.
 * Barsala (CG Female Kasatha Biohacker)
 * Velloro (LN Male Lashunta Vanguard)
 * Zemir (CN Male Humane Witchwarper)
+
 
 ## Source
 * https://paizo.com/products/btpy9ukw?Community-Use-Package-Starfinder-Society-Pregenerated-Characters

@@ -84,7 +84,7 @@
       "hp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 24,
         "temp": null,
         "tempmax": null,
         "tooltip": []
@@ -92,13 +92,13 @@
       "sp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 20,
         "tooltip": []
       },
       "rp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 6,
         "tooltip": []
       },
       "init": {
@@ -148,7 +148,7 @@
       "biography": {
         "value": "<p>Raia Danviri was born and raised in the lashunta city-state of Komena, near the southern tip of the continent of Asana on Castrovel. Komena&rsquo;s proximity to the formian-inhabitedcontinent of the Colonies had made it a center of military activity for millennia, constantly besieged by the bug-people as their armies crossed the notoriously embattled chain of islands between continents, laying waste to the landscape in a total war. Yet to the Danviris, it was always a home filled with hope and promise. Raia&rsquo;s parents were diplomats, and they devoted their lives to brokering a peace between the lashuntas and the formians, a goal that spanned decades. They taught their daughter the value of all sentient life, explaining that even among creatures like the insectile formians, who were so unlike lashuntas and had been enemies for so long, one can find similarities&mdash;basic structures like culture, society, and civilization. But even more important in their minds were the differences: the details that separate one species from another not only make them interesting but also can teach the diligent observer incredible new things and inspire one to question and reexamine one&rsquo;s own assumptions and beliefs. In the eyes of the alien, they taught, one can gain new personal insight&nbsp;</p>\n<p>The fact that Raia&rsquo;s parents actually succeeded in helping to negotiate peace with the Colonies only reinforced their teachings in the young lashunta&rsquo;s mind. Raia became almost obsessed with alien life-forms. She devoured any texts she could find that described the myriad species that inhabited the worlds beyond Castrovel, and she dreamed of someday traveling among the stars and meeting new species. When she reached puberty, Raia chose to develop into the tall, intellectual damaya subspecies, following the example of her parents, both of whom are damaya.</p>\n<p>When she was old enough, Raia applied to and was accepted into one of Qabarat&rsquo;s famed universities. Her aptitude exams showed a talent for both technology and spellcasting, so she studied the discipline of technomancy, using experimentation to blend science and magic together. At the same time, however, she also excelled in xenobiology and xenoanthropology, applying academic rigor to her childhood passion. During this time, Raia discovered Yaraesa, the lashunta goddess of knowledge and wisdom, whose faith was more akin to the scientific method. Raia wholeheartedly embraced Yaraesa&rsquo;s teachings, seeking self-perfection through the acquisition of knowledge and the development of one&rsquo;s mind and intellect.</p>\n<p>It was also at university that Raia met Danese, an exchange student from Triaxus. Raia was immediately enthralled withthe exotic ryphorian and his silky white fur, but it was Danese&rsquo;s quick wit and keen intellect that turned the initial attraction into something more. Danese was the first &ldquo;alien&rdquo; that Raia befriended, and over the course of innumerable late-night study sessions and heavily armed nature hikes through the nearby jungles, their friendship soon blossomed into love. Raia and Danese were inseparable during their time together at university, but they both knew they would need to reassess their relationship when their studies were complete. Danese had already accepted a commission in the Skyfire Legion and had to return to Triaxus after graduation, while Raia had been accepted into a graduate program on Absalom Station. Danese offered to resign his commission in order to remain with her, but Raia refused to accept that choice. In her opinion, neither of them should have to sacrifice their own advancement and improvement for the sake of the other; instead, each of them should follow Yaraesa&rsquo;s example and figure things out for themselves&mdash;intellectually and spiritually, as well as romantically. They bid each other a tearful farewell and promised to reunite whenever their circumstances allowed.</p>\n<p>After completing her studies, Raia realized that her passion for studying alien life-forms was actually a calling, and her technomantic abilities were the currency she could use to fund her life&rsquo;s work, exchanging her skills as a scientist and technomancer for berths on ships heading out to undiscovered regions of the Vast. Raia believes there is a certain nobility in contacting an alien species for the first time and working to ensure that both they and the peoples of the Pact Worlds advance and improve from the relationship. She seeks out new technology and alternative magical techniques from the aliens she encounters, trading her own knowledge in exchange. Raia doesn&rsquo;t hold to any unrealistic expectation of noninterference in alien cultures, but she believes strongly in doing the right thing and in always striving for honor, compassion, and justice.&nbsp;</p>\n<p>Despite her love of exploration, Raia remains firmly tied to the Pact Worlds. Besides her parents and friends still on Castrovel, Raia still loves Danese, and the two remain committed to one another, even across the vast distances involved in interstellar travel. They stay in regular communication and treasure the infrequent times when their paths bring them physically close to one another. Some day, they might choose to settle down and build a life together, but for now Raia is content. She knows love, her life has purpose and meaning, and the galaxy is filled with an endless number of aliens to discover, befriend, and study&mdash;one species at a time</p>\n<p>&nbsp;</p>\n<h2>SPECIAL ABILITIES</h2>\n<p><strong>Amplified Glitch</strong> As a standard action, Raia can cause technological devices to briefly malfunction in loud, distracting ways. She can target four creatures, no two of which can be more than 20 feet apart and all of which must be within 30 feet of a technological device. With a successful Computers check (DC = 15 + 1 per target + 1-1/2 the CR of the highest-CR target), she can cause targets to be shaken for 1 round, plus 1 additional round for every 5 by which she exceeds the check&rsquo;s DC. A creature she targets with this feat is immune to further uses of this feat for 24 hours.</p>\n<hr />\n<p><strong>Empowered Weapon</strong> As a move action, Raia can expend a spell slot to grant her weapon a bonus to attacks equal to the level of the spell slot, and her attacks with that weapon deal +1d6 bonus damage per level of spell slot expended. This bonus lasts until the start of her next turn.</p>\n<hr />\n<p><strong>Lashunta Magic</strong> Raia has the following spell-like abilities.</p>\n<ul>\n<li>Daze: This spell causes a humanoid creature of CR 3 or lower to be dazed for 1 round (Will DC 11 negates).</li>\n<li>Detect Thoughts: Raia can detect the surface thoughts of intelligent creatures within a 60-foot cone, and if she concentrates, she can attempt to read those thoughts (Will DC 12 negates).</li>\n<li>Psychokinetic Hand: Once this spell is cast, as long as Raia concentrates (a standard action each round), she can take a move action to move an object within 35 feet that weighs 10 pounds or less up to 15 feet. She can&rsquo;t perform fine manipulation (such as firing a weapon or using a computer), but she can push a single button or close a container&rsquo;s lid.</li>\n</ul>\n<hr />\n<p><strong>Limited Telepathy (Su)</strong> Raia can communicate telepathically with creatures within 30 feet that share a language with her.</p>\n<hr />\n<p><strong>Spell Cache (Su)</strong> Raia has an arm implant that functions as her spell cache. Once per day, she can cast one of her spells known even if she has expended all her spell slots of that spell level.</p>\n<hr />\n<p><strong>Spells </strong>Raia can cast the following spells as a standard action unless the spell says otherwise.</p>\n<ul>\n<li><em>Comprehend Languages</em>: Raia can understand spoken, signed, or written languages for 40 minutes.</li>\n<li><em>Dancing Lights</em>: Raia can create up to four flashlight-sized lights in a 10-foot-radius area.</li>\n<li><em>Detect Magic</em>: This spell reveals whether creatures or objects seen within a 60-foot cone are magical, and with concentration, can determine whether one magical source is a spell, magic item, or other effect, and its caster level.</li>\n<li><em>Energy Ray</em>: Raia can fire a ray of energy (choose acid, cold, electricity, or fire) as a ranged attack (+5 bonus) that targets EAC and deals 1d3 damage of the chosen energy type.</li>\n<li><em>Flight (1st-Level Spell)</em>: One Medium or smaller falling creature or object per level, all within 20 feet of each other, falls at 60 feet per round and takes no damage when it lands. This spell can be cast as a reaction.</li>\n<li><em>Flight (2nd-Level Spell)</em>: One creature or object (up to 100 pounds/10 bulk per level) within 35 feet moves up or down 20 feet per round, as Kaia directs as a move action.</li>\n<li><em>Ghost Sound</em>: Raia can create an illusory sound (DC 15 to disbelieve) that can be as loud as 20 normal humans.</li>\n<li><em>Grease</em>: Raia can coat a 10-foot square or one object with slippery grease, causing creatures in the area to fall prone or drop the object (Reflex DC 16 partial).</li>\n<li><em>Invisibility</em>: The creature touched is invisible for 4 minutes or until it attacks.</li>\n<li><em>Magic Missile:</em> Raia can fire two missiles of magical energy that automatically hit and deal 1d4+1 force damage each. If she casts this spell as a full action, Raia fires three missiles.&nbsp;</li>\n<li><em>Mending</em>: This spell restores 1d4 HP to one object or construct of up to 1 bulk.</li>\n<li><em>Overheat</em>: This spell deals 2d8 fire damage to creatures in a 15-foot burst (Reflex DC 16 half).</li>\n<li><em>Transfer Charge</em>: Raia can transfer charges between two identical batteries or power cells.</li>\n</ul>\n<p>&nbsp;</p>\n<h2>GEAR DESCRIPTIONS</h2>\n<p><strong>Basic Lashunta Tempweave</strong> While wearing this armor, Raia can close its environmental seals and survive in a vacuum (or other harsh environment) for up to 4 days.</p>\n<hr />\n<p><strong>Engineering Tool Kit</strong> These specialized tools allow Raia to attempt Engineering checks without penalty.</p>\n<hr />\n<p><strong>Mk 1 Synaptic Accelerators </strong>These implants give Raia an additional +2 to her Intelligence score (already included in her statistics).</p>\n<hr />\n<p><strong>Mk 1 Serum of Healing</strong> Drinking a vial of this serum restores 1d8 HP.</p>\n<hr />\n<p><strong>Thunderstrike Sonic Pistol</strong> This weapon can be fired 10 times before its battery needs to be recharged or replaced.</p>\n<hr />\n<p>&nbsp;</p>",
         "public": "",
-        "fullBodyImage": "worlds/sf-iconics/tokens/Raia_Portrait.png",
+        "fullBodyImage": "modules/fvtt-sf-iconics/images/webp/Raia-portrait.webp",
         "dateOfBirth": "",
         "age": 0,
         "height": "",
@@ -550,16 +550,18 @@
       "systemVersion": "0.9.0.0"
     }
   },
-  "img": "worlds/sf-iconics/tokens/Raia.png",
+  "img": "modules/fvtt-sf-iconics/images/webp/Raia-portrait.webp",
   "token": {
     "flags": {},
-    "name": "Raia L1",
-    "displayName": 0,
-    "img": "worlds/sf-iconics/tokens/Raia.png",
-    "tint": null,
+    "name": "Raia",
+    "displayName": 50,
+    "img": "modules/fvtt-sf-iconics/images/webp/Raia-token.webp",
+    "tint": "",
     "width": 1,
     "height": 1,
     "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
     "lockRotation": false,
     "rotation": 0,
     "vision": false,
@@ -569,17 +571,23 @@
     "brightLight": 0,
     "sightAngle": 360,
     "lightAngle": 360,
+    "lightColor": "",
     "lightAlpha": 1,
     "lightAnimation": {
+      "type": "",
       "speed": 5,
       "intensity": 5
     },
     "actorId": "X6HslSyghofRpQ9V",
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 1,
     "displayBars": 0,
-    "bar1": {},
-    "bar2": {},
+    "bar1": {
+      "attribute": ""
+    },
+    "bar2": {
+      "attribute": ""
+    },
     "randomImg": false
   },
   "items": [

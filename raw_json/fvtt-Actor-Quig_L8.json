@@ -84,7 +84,7 @@
       "hp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 50,
         "temp": null,
         "tempmax": null,
         "tooltip": []
@@ -92,13 +92,13 @@
       "sp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 64,
         "tooltip": []
       },
       "rp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 8,
         "tooltip": []
       },
       "init": {
@@ -148,7 +148,7 @@
       "biography": {
         "value": "<h2>SPECIAL ABILITIES</h2>\n<p><strong>Artificial Intelligence</strong>&nbsp;Quig has a flying drone he constructed himself. It acts after Quig&rsquo;s turn each round. If Quig takes no actions to control the drone, it can take only a standard action to attack or a move action to move up to its speed. If Quig takes a move action to control it, the drone can take a standard and move action. If Quig takes a move and swift action to control his drone, it can take a standard, move, and swift action, or a full action.</p>\n<hr />\n<p><strong>Barricade&nbsp;</strong>As a move action, Quig can stack and reinforce objects too small to provide cover normally into a single adjacent square of partial cover. (The GM can rule that particularly barren areas lack the material needed to create a barricade.) If built in a square that already provided partial cover, the barricade instead provides cover. The barricade has hardness 13 and 13 Hit Points. If the barricade or a creature adjacent to it is hit by an attack, the barricade collapses 1d4 rounds later even if it has not yet been destroyed by damage. Normally there is not enough spare material to build a second barricade in the same square.&nbsp;</p>\n<hr />\n<p><strong>Boost Shield, Energy Shield</strong>&nbsp;As a standard action, Quig can use his expert rig to grant himself an energy shield. It gives him 20 temporary Hit Points and lasts for 8 minutes or until its Hit Points are depleted. Once he has used it, he can&rsquo;t activate it again until he takes a 10-minute rest to regain Stamina Points. However, at any time he can spend 1 Resolve Point to restore all the shield&rsquo;s HP (even if it has been reduced to 0).</p>\n<hr />\n<p><strong>Bypass&nbsp;</strong>Quig gains a +2 bonus to Computers and Engineering checks. This has been added to his skill bonuses above.</p>\n<hr />\n<p><strong>Cheek Pouches</strong>&nbsp;Quig can keep up to 1 cubic foot of items, weighing up to 1 bulk, in his cheek pouches. He can transfer a single item between his hand and a cheek pouch as a swift action.</p>\n<hr />\n<p><strong>Darkvision&nbsp;</strong>Quig can see up to 60 feet in total darkness.</p>\n<hr />\n<p><strong>Distracting Hack</strong>&nbsp;Quig can hack a computer within 30 feet of a foe (either through normal access or using his remote hack) to cause the computer to make a loud distracting sound or visual display. This works as the feint action, but uses Quig&rsquo;s Computer skill.</p>\n<hr />\n<p><strong>Expert Rig</strong>&nbsp;Quig has a customized handheld toolkit he uses to hack systems and items. It functions as the appropriate tool for any Computers or Engineering checks he attempts. If it&rsquo;s destroyed, he can build a new expert rig from any technological toolkit with 1 hour of work. If Quig successfully hacks a computer with his expert rig, he can automatically disable any one security feature other than firewalls.&nbsp;</p>\n<p>It also acts as a tier 4 computer with an artificial personality (named &ldquo;Little Scout&rdquo;). It has an audio/video recording, and can communicate with Quig&rsquo;s ship (or communicate with and give orders to Scout) at a range of 5 miles.</p>\n<hr />\n<p><strong>Improved Combat Maneuver (Disarm, Grapple)&nbsp;</strong>When Quig attempts a disarm or grapple combat maneuver, he gains a +4 bonus to his attack roll.</p>\n<hr />\n<p><strong>Miracle Worker</strong>&nbsp;Once per day as a move action, Quig can perform an amazing feat of engineering for a starship, armor, or weapon he can access. For a suit of armor, this increases its AC by 2 for 1 minute. A weapon gains a +2 bonus to its attack and damage rolls for 1 minute. For a starship, Quig restores a number of Hull Points equal to the starship&rsquo;s base frame HP increment. If this raises the ship&rsquo;s HP over a multiple of its Critical Threshold, he can repair critical damage to one system per multiple, reducing its severity by one step.</p>\n<hr />\n<p><strong>Moxie&nbsp;</strong>Quig can stand from prone as a swift action. When off-kilter, he does not take the normal penalties for that condition and is not flat-footed.</p>\n<hr />\n<p><strong>Overcharge&nbsp;</strong>As a standard action, Quig can use his expert rig to overcharge and fire an energy weapon (or melee weapon with the powered special property) in his possession, or as a move action he can overcharge a touched weapon (which is then overcharged for its next attack made before the end of Quig&rsquo;s next turn). An overcharged weapon&rsquo;s attack deals an additional 2d6 damage and uses three times as many charges as a typical attack with the weapon.</p>\n<hr />\n<p><strong>Overload&nbsp;</strong>As a standard action, Quig can overload an adjacent technological item, such as a powered weapon or armor upgrade (though not a creature, or an object larger than Medium size). The item does not function for 1 round. If the item is in a foe&rsquo;s possession, that creature can attempt a DC 18 Reflex save to negate this effect. Once a device is overloaded, a static charge prevents the object from being overloaded again for 1 minute.</p>\n<hr />\n<p><strong>Remote Hack</strong>&nbsp;Quig can use his expert rig to attempt Computers and Engineering checks at a range of 30 feet. A target of this ability (or someone observing the target) can attempt a DC 26 Perception or Sense Motive check to know Quig is the source of the remote hack.</p>\n<hr />\n<p><strong>Swift Hunter</strong>&nbsp;Quig can use Diplomacy to gather information about a single creature in half the normal time, and he takes no penalty to Survival checks to follow tracks when moving at full speed.</p>\n<hr />\n<p><strong>Theme Knowledge</strong>&nbsp;Quig can select a specific sentient creature that he can identify by name, alias, or specific identity to be his mark. He reduces the DC of Culture or Profession (bounty hunter) checks to recall knowledge about his mark, as well as about law-enforcement individuals and practices. If he knows his mark by an alias, he can recall only knowledge associated with that alias.</p>\n<hr />\n<p><strong>Toughness</strong>&nbsp;Quig gains a +4 bonus to many Constitution checks to avoid damage or negative consequences from harsh environments.</p>\n<p>&nbsp;</p>\n<h2>GEAR DESCRIPTIONS</h2>\n<p><strong>Corona Laser Pistol</strong>&nbsp;This pistol can be fired 20 times before its battery must be recharged or replaced. Quig has two extra batteries, which can be used in this or Scout&rsquo;s weapon.</p>\n<hr />\n<p><strong>Detonator&nbsp;</strong>A detonator can be wired to an explosive in 1 minute, and set to detonate the explosive within 500 feet with the push of a button (no action if done on Quig&rsquo;s turn, or a reaction), a command code (a move action) or a complex action such as a retinal scan (a full action). The detonator can be used 5 times.</p>\n<hr />\n<p><strong>Explosives&nbsp;</strong>Quig has a number of explosives designed to work with his detonator. These have the same cost, weight, and effect as grenades, but must be activated with a detonator rather than thrown. He has one frag III (explode [15 ft., 4d6 P, DC 18]), two stickybomb II explosives (explode [15 ft., entangled 2d4 rounds, DC 15]), and two flash I explosives (explode [5 ft., blinded 1d4 rounds, DC 15]).</p>\n<hr />\n<p><strong>Grappler&nbsp;</strong>The grappler is attached to 50 feet of adamantine alloy cable line, and can be climbed as easily as a knotted rope. It can also be attached to an immobile object at least 5 feet wide with a ranged attack (+10) against AC 5. Against a smaller or moving object, attaching it requires a ranged attack against KAC + 8. If it&rsquo;s attached to a creature, this is a grapple combat maneuver, but the creature can still use all its limbs and is only prevented from moving farther away than the length of the cable. The grappler can be pried loose with a successful Athletics check with a DC equal to Quig&rsquo;s attack roll to attach it.</p>\n<hr />\n<p><strong>Kasatha Microcord III&nbsp;</strong>While wearing this armor, Quig can close its environmental seals and survive in a vacuum (or other harsh environment) for up to 8 days. Its jetpack allows him to fly with a speed of 30 feet. It has a capacity of 40, and Quig can use 1 charge per minute to fly in cruising mode (causing him to be flat-footed and off-target), or expend 2 charges per round to fly without those conditions.</p>\n<hr />\n<p><strong>Mk 2 Serum of Healing</strong>&nbsp;Drinking a vial of this serum restores 3d8 HP.</p>\n<hr />\n<p><strong>Spell Ampoule of Make Whole</strong>&nbsp;Quig can inject this spell ampoule into Scout (or another construct) to restore 5d6 Hit Points to it.</p>\n<p>&nbsp;</p>",
         "public": "",
-        "fullBodyImage": "worlds/sf-iconics/tokens/Quig_Portrait.png",
+        "fullBodyImage": "modules/fvtt-sf-iconics/images/webp/Quig-portrait.webp",
         "dateOfBirth": "",
         "age": 0,
         "height": "",
@@ -551,16 +551,18 @@
       "systemVersion": "0.9.0.0"
     }
   },
-  "img": "worlds/sf-iconics/tokens/Quig.png",
+  "img": "modules/fvtt-sf-iconics/images/webp/Quig-portrait.webp",
   "token": {
     "flags": {},
     "name": "Quig",
-    "displayName": 0,
-    "img": "worlds/sf-iconics/tokens/Quig.png",
-    "tint": null,
+    "displayName": 50,
+    "img": "modules/fvtt-sf-iconics/images/webp/Quig-token.webp",
+    "tint": "",
     "width": 1,
     "height": 1,
     "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
     "lockRotation": false,
     "rotation": 0,
     "vision": false,
@@ -570,17 +572,23 @@
     "brightLight": 0,
     "sightAngle": 360,
     "lightAngle": 360,
+    "lightColor": "",
     "lightAlpha": 1,
     "lightAnimation": {
+      "type": "",
       "speed": 5,
       "intensity": 5
     },
     "actorId": "mqCHHZCAPO2vkbej",
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 1,
     "displayBars": 0,
-    "bar1": {},
-    "bar2": {},
+    "bar1": {
+      "attribute": ""
+    },
+    "bar2": {
+      "attribute": ""
+    },
     "randomImg": false
   },
   "items": [

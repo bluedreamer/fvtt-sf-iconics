@@ -84,7 +84,7 @@
       "hp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 26,
         "temp": null,
         "tempmax": null,
         "tooltip": []
@@ -92,13 +92,13 @@
       "sp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 32,
         "tooltip": []
       },
       "rp": {
         "min": 0,
         "max": 10,
-        "value": 0,
+        "value": 5,
         "tooltip": []
       },
       "init": {
@@ -148,7 +148,7 @@
       "biography": {
         "value": "<p>Born to a poor family on Akiton, Quig Dexel taught himself the basics of engineering by stealthily tinkering with valve-control mechanisms and reverse-osmosis regulators on the water purifiers studding the nearby ice cap. In his spare time, he constructed the first iterations of what would become his drone companion, Scout, using spare parts he scrounged from junk heaps and alleys. One early morning as he hunted for scraps he could fashion into an actuator, he was winged in a passing firefight waged between a shobhad bounty hunterand her human quarry. Ignoring the pain, Quig dropped the hunk of metal he was holding and chased after the fracas, arriving in time to see the bounty hunter slap the fugitive into restraints. Flushed with adrenaline, Quig realized that this was what he wanted to do for the rest of his life.</p>\n<p>Quig immediately left home and signed on as a caravan guard, and it was in the course of his new career that he ran into Dhareen the Vise, the same shobhad bounty hunter who inadvertently set him on his life&rsquo;s path. After hiring Dhareen to help him take revenge on some drone-stealing thugs, Quig convinced Dhareen to let him be her apprentice. The ysoki learned much from the gruff shobhad over the next year, and though they often butted heads over methods, the two enjoyed a relationship of mutual respect. When Dhareen eventually completed a job large enough to let her retire, Quig (and Scout) continued on without her.</p>\n<p>Quig is personable and outgoing&mdash;often chattier than his comrades would like&mdash;and his constant traveling has left him with contacts across the Pact Worlds. He prides himself on being a good judge of character, and while he&rsquo;s savvy enough to withhold actual trust until it&rsquo;s been earned, he&rsquo;s not above throwing himself into a fight on behalf of a near-stranger. Though fully capable of working alone, he tends to get bored easily without people to talk to, and thus prefers to sign on with teams of adventurers, where he can act as the group&rsquo;s resident tracker and starship engineer. While he still keeps in touch with his family, he doesn&rsquo;t speak about his hometown much, as he&rsquo;s a bit embarrassed by his unglamorous upbringing-when he does mention it, it is with a liberal helping of humor. He&rsquo;s a fan of both taking minor trophies from previous jobs and scavenging spare parts that he&rsquo;s positive may come in handy someday, inevitably turning his cabin into a riotous nest of cherished junk.</p>\n<p>Quig&rsquo;s closest companion is his drone, Scout, and he spends the majority of his downtime puttering about in the robot&rsquo;s systems. He often talks to Scout as way of thinking out loud or voicing his innermost thoughts, attributing them to the drone in a way that can make him seem a bit unbalanced to those who don&rsquo;t know him well. (And in truth, sometimes to those who do.) When he&rsquo;s captured a bounty and is feeling particularly mischievous, he often pretends to consult with the robot about the person&rsquo;s fate, ultimately claiming that he sympathizes and would like to let the target go, but &ldquo;the robot says otherwise.</p>\n<p>&nbsp;</p>\n<h2>SPECIAL ABILITIES</h2>\n<p><strong>Artificial Intelligence </strong>Quig has a flying drone he constructed himself. It acts after Quig&rsquo;s turn each round. If Quig takes no actions to control the drone, it can take only a standard action to attack or a move action to move up to its speed. If Quig takes a move action to control it, the drone can take a standard and move action. If Quig takes a move and swift action to control his drone, it can take a standard, move, and swift action, or a full action.</p>\n<hr />\n<p><strong>Barricade&nbsp;</strong>As a move action, Quig can stack and reinforce objects too small to provide cover normally into a single adjacent square of partial cover. (The GM can rule that particularly barren areas lack the material needed to create a barricade.) If built in a square that already provided partial cover, the barricade instead provides cover. The barricade has hardness 9 and 9 Hit Points. If the barricade or a creature adjacent to it is hit by an attack, the barricade collapses 1d4 rounds later even if it has not yet been destroyed by damage. Normally there is not enough spare material to build a second barricade in the same square.</p>\n<hr />\n<p><strong>Bypass </strong>Quig gains a +1 bonus to Computers and Engineering checks. This has been added to his skill bonuses above.</p>\n<hr />\n<p><strong>Cheek Pouches </strong>Quig can keep up to 1 cubic foot of items, weighing up to 1 bulk, in his cheek pouches. He can transfer a single item between his hand and a cheek pouch as a swift action.</p>\n<hr />\n<p><strong>Custom Rig </strong>Quig has a customized handheld toolkit he uses to hack systems and items. It functions as the appropriate tool for any Computers or Engineering checks he attempts. If it&rsquo;s destroyed, he can build a new custom rig from any technological toolkit with 1 hour of work.</p>\n<hr />\n<p><strong>Darkvision </strong>Quig can see up to 60 feet in total darkness.Moxie Quig can stand from prone as a swift action. When off-kilter, he does not take the normal penalties for that condition and is not flat-footed.</p>\n<hr />\n<p><strong>Energy Shield</strong> As a standard action, Quig can use his custom rig to grant himself an energy shield. It gives him 7 temporary Hit Points and lasts for 4 minutes or until its Hit Points are depleted. Once he has used it, he can&rsquo;t activate it again until he takes a 10-minute rest to regain Stamina.</p>\n<hr />\n<p><strong>Moxie </strong>Quig can stand from prone as a swift action. When off-kilter, he does not take the normal penalties for that condition and is not flat-footed.</p>\n<hr />\n<p><strong>Overcharge</strong> As a standard action, Quig can use his custom rig to overcharge and fire an energy weapon (or melee weapon with the powered special property) in his possession, or as a move action he can overcharge a touched weapon (which is then overcharged for its next attack made before the end of Quig&rsquo;s next turn). An overcharged weapon&rsquo;s attack deals an additional 1d6 damage and uses three times as many charges as a typical attack with the weapon.</p>\n<hr />\n<p><strong>Overload </strong>As a standard action, Quig can overload an adjacent technological item, such as a powered weapon or armor upgrade (though not a creature, or an object larger than Medium size). The item does not function for 1 round. If the item is in a foe&rsquo;s possession, that creature can attempt a DC 15 Reflex save to negate this effect. Once a device is overloaded, a static charge prevents the object from being overloaded again for 1 minute.</p>\n<hr />\n<p><strong>Theme Knowledge </strong>Quig can select a specific sentient creature that he can identify by name, alias, or specific identity to be his mark. He reduces the DC of Culture or Profession (bounty hunter) checks by 5 to recall knowledge about his mark, as well as about law-enforcement individuals and practices. If he knows his mark by an alias, he can recall only knowledge associated with that alias.</p>\n<hr />\n<p><strong>Toughness</strong> Quig gains a +4 bonus to many Constitution checks to avoid damage or negative consequences from harsh environments.</p>\n<p>&nbsp;</p>\n<h2>GEAR DESCRIPTIONS</h2>\n<p><strong>Club </strong>This archaic weapon deals 5 less damage to foes unless they are unarmored or in archaic armor.</p>\n<hr />\n<p><strong>Defrex </strong>Hide While wearing this armor, Quig can close its environmental seals and survive in a vacuum (or other harsh environment) for up to 4 days.</p>\n<hr />\n<p><strong>Detonator </strong>A detonator can be wired to an explosive in 1 minute, and set to detonate the explosive within 500 feet with the push of a button (no action if done on Quig&rsquo;s turn, or a reaction), a command code (a move action) or a complex action such as a retinal scan (a full action). The detonator can be used 5 times.</p>\n<hr />\n<p><strong>Explosives </strong>Quig has a number of explosives designed to work with his detonator. These have the some cost, weight, and effect as grenades, but must be activated with a detonator rather than thrown. He has two stickybomb II explosives (explode [15 ft., entangled 2d4 rounds, DC 13]), two flash I explosives (explode [5 ft., blinded 1d4 rounds, DC 12]), and one incendiary I explosive (explode [5 ft., 1d6 F plus 1d4 burn, DC 12).</p>\n<hr />\n<p><strong>Mk 1 Serum of Healing </strong>Drinking this serum restores 1d8 HP.<br />Second Skin While wearing this armor, Quig can close its environmental seals and survive in a vacuum (or other harsh environment) for up to 24 hours.</p>\n<hr />\n<p><strong>Spell Ampoule of Mending</strong> Quig can inject this spell ampoule into Scout (or another construct) to restore 1d4 Hit Points to it.</p>\n<hr />\n<p><strong>Tactical Semi-Auto Pistol </strong>This weapon shoots physical bullets and can be fired nine times before it needs to be reloaded. Quig has 30 rounds of small arm ammunition, which can reload this or Scout&rsquo;s pistol.</p>",
         "public": "",
-        "fullBodyImage": "worlds/sf-iconics/tokens/Quig_Portrait.png",
+        "fullBodyImage": "modules/fvtt-sf-iconics/images/webp/Quig-portrait.webp",
         "dateOfBirth": "",
         "age": 0,
         "height": "",
@@ -551,16 +551,18 @@
       "systemVersion": "0.9.0.0"
     }
   },
-  "img": "worlds/sf-iconics/tokens/Quig.png",
+  "img": "modules/fvtt-sf-iconics/images/webp/Quig-portrait.webp",
   "token": {
     "flags": {},
     "name": "Quig",
-    "displayName": 0,
-    "img": "worlds/sf-iconics/tokens/Quig.png",
-    "tint": null,
+    "displayName": 50,
+    "img": "modules/fvtt-sf-iconics/images/webp/Quig-token.webp",
+    "tint": "",
     "width": 1,
     "height": 1,
     "scale": 1,
+    "mirrorX": false,
+    "mirrorY": false,
     "lockRotation": false,
     "rotation": 0,
     "vision": false,
@@ -570,17 +572,23 @@
     "brightLight": 0,
     "sightAngle": 360,
     "lightAngle": 360,
+    "lightColor": "",
     "lightAlpha": 1,
     "lightAnimation": {
+      "type": "",
       "speed": 5,
       "intensity": 5
     },
     "actorId": "CGiCnOHgdl3Q8FYT",
     "actorLink": false,
-    "disposition": -1,
+    "disposition": 1,
     "displayBars": 0,
-    "bar1": {},
-    "bar2": {},
+    "bar1": {
+      "attribute": ""
+    },
+    "bar2": {
+      "attribute": ""
+    },
     "randomImg": false
   },
   "items": [

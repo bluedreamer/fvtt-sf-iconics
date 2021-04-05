@@ -1,0 +1,21 @@
+{
+  "name": "fvtt-sf-iconics",
+  "title": "Starfinder Iconic Pregens",
+  "description": "Each of the 10 iconic pregen character at levels 1, 4, and 8.",
+  "author": "Bluedreamer",
+  "url": "https://github.com/bluedreamer/fvtt-sf-iconics",
+  "manifest": "https://github.com/bluedreamer/fvtt-sf-iconics/blob/main/module.json",
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion":"0.7.9",
+  "packs": [
+    {
+      "name": "iconics",
+      "label": "Iconics",
+      "path": "packs/iconics.db",
+      "entity": "Actor",
+      "module": "fvtt-sf-iconics",
+      "system": "sfrpg"
+    }
+  ]
+}

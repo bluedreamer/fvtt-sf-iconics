@@ -17,4 +17,7 @@ Each character is provided at levels 1, 4, and 8.
 * Zemir (CN Male Humane Witchwarper)
 
 ## Source
-https://paizo.com/products/btpy9ukw?Community-Use-Package-Starfinder-Society-Pregenerated-Characters
+* https://paizo.com/products/btpy9ukw?Community-Use-Package-Starfinder-Society-Pregenerated-Characters
+
+## Paizo Community Use Policy
+* https://paizo.com/community/communityuse

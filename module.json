@@ -7,7 +7,7 @@
   "bugs": "https://github.com/bluedreamer/fvtt-sf-iconics/issues",
   "manifest": "https://github.com/bluedreamer/fvtt-sf-iconics/releases/download/latest/module.json",
   "download": "https://api.github.com/repos/bluedreamer/fvtt-sf-iconics/zipball/latest",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion":"0.7.9",
   "packs": [
